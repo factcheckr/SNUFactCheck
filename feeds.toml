@@ -24,3 +24,13 @@ titleSelector = "p[class='factcheck_subject_summary']"
 linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div[class^='factcheck_source_rating is']"
 waitUntil = "networkidle"
+
+[snufactcheck_notice]
+title = "SNU 팩트체크 ─ 공지사항"
+url = "http://factcheck.snu.ac.kr/documents?doc_type=notice"
+contentSelector = ""
+entrySelector = "table.notice_table tbody tr"
+titleSelector = "td a"
+linkSelector = "td a"
+contentSelector = "td:nth-child(2)"
+waitUntil = "networkidle"
