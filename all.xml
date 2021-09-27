@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-27T09:18:06.317Z</updated>
+    <updated>2021-09-27T10:18:20.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[길고양이 입양 시, 책임비 요구는 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -155,7 +155,7 @@
         <title type="html"><![CDATA[재난지원금으로 최신 전자기기 살 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3322</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3322"/>
-        <updated>2021-09-27T09:17:57.846Z</updated>
+        <updated>2021-09-27T09:17:46.625Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
