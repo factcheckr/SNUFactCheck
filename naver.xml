@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-09-29T10:20:06.188Z</updated>
+    <updated>2021-09-29T11:14:14.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일 미군 기지의 아프간 난민 보호시설에서 한 달간 2천명이 임신했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3338</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3338"/>
+        <updated>2021-09-29T11:13:51.280Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약한 처벌로 인해 피싱 사기가 근절되지 않는다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3295</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3295"/>
         <updated>2021-09-29T07:17:45.486Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일 미군 기지의 아프간 난민 보호시설에서 한 달간 2천명이 임신했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3332</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3332"/>
-        <updated>2021-09-28T06:22:46.929Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주택청약 가점에 직장도 반영된다]]></title>
