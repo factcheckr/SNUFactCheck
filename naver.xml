@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-10-01T05:16:28.062Z</updated>
+    <updated>2021-10-01T06:19:34.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 전 검찰총장의 부친 윤기중 교수가 일본 우익단체에서 정기적으로 지원금을 받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3339</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3339"/>
+        <updated>2021-10-01T06:19:15.355Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정책과 공약에는 저작권이 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3336</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3330"/>
         <updated>2021-09-28T06:22:46.930Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상속세는 중산층도 내는 세금이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3327</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3327"/>
-        <updated>2021-09-30T05:16:29.885Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
