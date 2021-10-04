@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-10-04T07:20:09.163Z</updated>
+    <updated>2021-10-04T08:21:41.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3340"/>
         <updated>2021-10-01T07:17:20.943Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타벅스 '리유저블 컵 데이'는 일회용컵 사용 절감 위한 친환경 행사이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3349</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3349"/>
+        <updated>2021-10-04T08:21:19.856Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['빨간 수요일'이 한국서 화제다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3295"/>
         <updated>2021-09-29T07:17:45.486Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일 미군 기지의 아프간 난민 보호시설에서 한 달간 2천명이 임신했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3338</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3338"/>
-        <updated>2021-09-29T11:13:51.280Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
