@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2021-10-08T05:17:06.719Z</updated>
+    <updated>2021-10-08T06:21:46.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국·영국 백신 부작용 사망 보고가 코로나 사망자보다 많다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3366</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3366"/>
+        <updated>2021-10-08T06:21:31.539Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임신부가 코로나19 백신을 접종하면 더 위험하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3353</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3264"/>
         <updated>2021-10-07T13:28:09.052Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트라제네카 혈전증 부작용 확률 젊을수록 높다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3256</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3256"/>
-        <updated>2021-10-07T13:28:09.053Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
