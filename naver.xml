@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-10-09T06:22:46.396Z</updated>
+    <updated>2021-10-09T07:17:17.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[임신부가 코로나19 백신을 접종하면 더 위험하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3353</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3353"/>
+        <updated>2021-10-09T07:16:58.260Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다른 나라도 외국인 부동산 소유 규제하고 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3361</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3361"/>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3363"/>
         <updated>2021-10-07T13:28:02.566Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 어느 선거에도 당일투표와 사전투표가 어마어마하게 차이 난 적은 없었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3365</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3365"/>
-        <updated>2021-10-07T13:28:02.566Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
