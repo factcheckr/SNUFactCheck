@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T05:17:19.978Z</updated>
+    <updated>2021-10-14T06:21:48.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['백신 맞고 항체 생성 여부' 항체 검사로 안다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3386</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3386"/>
+        <updated>2021-10-14T06:21:27.369Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LED로 집에서 코로나19 치료한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3387</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3387"/>
+        <updated>2021-10-14T06:21:27.371Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대장동 환수액, 역대 도시개발사업 환수총액의 3배 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3381</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3381"/>
+        <updated>2021-10-14T06:21:27.376Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50억 원은 글로벌 대기업 CEO들의 퇴직금에서도 상위에 속하는 금액이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3376</id>
@@ -54,25 +75,18 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김건희 박사학위논문은 검증시효가 지나 본조사가 불가하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3370</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3370"/>
-        <updated>2021-10-08T11:16:44.126Z</updated>
+        <title type="html"><![CDATA['백신 맞고 항체 생성 여부' 항체 검사로 안다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3386</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3386"/>
+        <updated>2021-10-14T06:21:33.691Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LED로 집에서 코로나19 치료한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3387</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3387"/>
+        <updated>2021-10-14T06:21:33.691Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 부인 김건희 씨 논문은 운세(점)에 관한 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3368</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3368"/>
-        <updated>2021-10-08T08:23:09.424Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽에선 백신패스 없이 어떤 곳도 못 간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3369</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3369"/>
-        <updated>2021-10-08T07:17:36.354Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽에선 백신패스 없이 어떤 곳도 못 간다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -128,20 +142,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3284</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3284"/>
         <updated>2021-10-07T15:17:06.055Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12~17세 백신 접종, 부작용보다 예방 효과 더 크다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3277</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3277"/>
-        <updated>2021-10-07T15:17:06.056Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19에 감염 후 완치되더라도 백신을 맞는 게 낫다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3267</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3267"/>
-        <updated>2021-10-07T15:17:06.057Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
