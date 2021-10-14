@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T09:18:42.353Z</updated>
+    <updated>2021-10-14T10:20:04.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[OECD의 평균 국토보유세는 0.6%이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3378</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3378"/>
+        <updated>2021-10-14T10:19:39.451Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중산층 소득 기준, 최하가 244만원이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3377</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3377"/>
+        <updated>2021-10-14T10:19:39.453Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백신 맞고 항체 생성 여부' 항체 검사로 안다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3386</id>
@@ -19,7 +33,7 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대장동 환수액, 역대 도시개발사업 환수총액의 3배 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <title type="html"><![CDATA[대장동 환수액, 역대 도시개발사업 환수총액의 3배이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3381</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3381"/>
         <updated>2021-10-14T06:21:27.376Z</updated>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3371"/>
         <updated>2021-10-13T08:22:46.410Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선진국시대 들어가면 검찰 수사권은 공소유지권으로 다 전환이 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3373</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3373"/>
-        <updated>2021-10-13T09:17:36.218Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성의 사회 진출이 많아지다 보니 채용 (군 복무)가산점이 없어졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3367</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3367"/>
-        <updated>2021-10-08T06:21:25.011Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['백신 맞고 항체 생성 여부' 항체 검사로 안다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
