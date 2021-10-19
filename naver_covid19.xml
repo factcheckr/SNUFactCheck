@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2021-10-19T07:18:15.726Z</updated>
+    <updated>2021-10-19T08:21:39.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영양실조로 사망, 외환위기 이후 최다이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3396</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3396"/>
+        <updated>2021-10-19T08:21:31.196Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19가 남녀 고용 성별 격차 더 키웠다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3357</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3302"/>
         <updated>2021-10-07T15:17:11.644Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세금도 안 내는 외국인에 혈세로 재난지원금 준다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3296</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3296"/>
-        <updated>2021-10-07T15:17:11.645Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
