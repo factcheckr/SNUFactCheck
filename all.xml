@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-21T06:21:43.408Z</updated>
+    <updated>2021-10-21T07:18:22.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[얀센 백신 효과, 화이자·모더나보다 오래 지속된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[얀센 백신 효과, 화이자·모더나보다 오래 지속된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3411</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3411"/>
-        <updated>2021-10-21T06:21:30.330Z</updated>
+        <updated>2021-10-21T06:21:24.708Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
