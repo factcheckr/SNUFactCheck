@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2021-10-21T05:17:03.836Z</updated>
+    <updated>2021-10-21T06:21:43.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얀센 백신 효과, 화이자·모더나보다 오래 지속된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3411</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3411"/>
+        <updated>2021-10-21T06:21:30.330Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종 후 통증이 심하면 젊고 건강하다는 증거이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3399</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3325"/>
         <updated>2021-10-07T13:28:09.045Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 1차 접종자 70% 달성 위해 고위험군의 2차 접종을 늦추고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3312</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3312"/>
-        <updated>2021-10-07T13:28:09.047Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
