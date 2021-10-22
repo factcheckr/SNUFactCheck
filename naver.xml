@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-10-22T09:18:35.543Z</updated>
+    <updated>2021-10-22T10:20:07.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국은 노동선진국이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3413</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3413"/>
+        <updated>2021-10-22T10:19:47.165Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음주측정거부가 음주운전보다 처벌 약하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3420</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3401"/>
         <updated>2021-10-20T06:21:30.573Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3407</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3407"/>
-        <updated>2021-10-19T10:18:26.967Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
