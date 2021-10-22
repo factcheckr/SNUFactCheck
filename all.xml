@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T08:21:57.111Z</updated>
+    <updated>2021-10-22T09:18:35.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[음주측정거부가 음주운전보다 처벌 약하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3420</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3420"/>
+        <updated>2021-10-22T09:18:14.174Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스위스, 중립국 유지하기 위해 엄청난 국방비 쓴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3419</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3419"/>
+        <updated>2021-10-22T09:18:14.174Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여전히 대한민국은 OECD 최장시간 노동국가 탑2다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3418</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3418"/>
+        <updated>2021-10-22T09:18:14.175Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산국제영화제, 정부 지원 10%에 불과하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3417</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3417"/>
+        <updated>2021-10-22T09:18:14.175Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재산 상속하면 절반을 세금으로 떼 간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3412</id>
@@ -44,34 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3407</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3407"/>
         <updated>2021-10-19T10:18:26.967Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 중개수수료 개편안 시행되면 복비 줄어든다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3404</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3404"/>
-        <updated>2021-10-19T10:18:26.967Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변호인단은 대부분 사법연수원 동기나 대학 친구들이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3408</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3408"/>
-        <updated>2021-10-19T08:21:18.198Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려동물과 관련된 공약을 밝힌 후보는 이재명 후보가 유일하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3400</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3400"/>
-        <updated>2021-10-19T08:21:18.203Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영양실조로 사망, 외환위기 이후 최다이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3396</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3396"/>
-        <updated>2021-10-19T08:21:18.203Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
