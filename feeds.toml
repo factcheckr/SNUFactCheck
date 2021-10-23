@@ -6,6 +6,7 @@ titleSelector = "p[class='factcheck_subject_summary']"
 linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div[class^='factcheck_source_rating is']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_vaccine]
 title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 백신"
@@ -15,6 +16,7 @@ titleSelector = "p[class='factcheck_subject_summary']"
 linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div[class^='factcheck_source_rating is']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_covid19]
 title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19"
@@ -24,6 +26,7 @@ titleSelector = "p[class='factcheck_subject_summary']"
 linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div[class^='factcheck_source_rating is']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [notice]
 title = "SNU 팩트체크 ─ 공지사항"
@@ -33,3 +36,4 @@ titleSelector = "td a"
 linkSelector = "td a"
 dateSelector = "td:nth-child(2)"
 waitUntil = "networkidle"
+onFail = "stale"
