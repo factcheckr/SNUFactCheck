@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
     <title>SNU 팩트체크 ─ 공지사항</title>
-    <updated>2021-10-25T09:18:37.091Z</updated>
+    <updated>2021-10-25T10:19:08.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/252</id>
+        <link href="http://factcheck.snu.ac.kr/documents/252"/>
+        <updated>2021-10-25T10:19:07.398Z</updated>
+        <content type="html"><![CDATA[<td>
+    <a href="/documents/252">2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수)</a>
+  </td>
+  <td>2021.10.25</td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 한국팩트체크대상 수상자 인터뷰 영상 공개]]></title>
         <id>http://factcheck.snu.ac.kr/documents/251</id>
@@ -244,15 +254,5 @@
     <a href="/documents/223">팩트체킹 취재보도 지원사업 FAQ</a>
   </td>
   <td>2021.01.12</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팩트체킹 취재보도 지원사업 역대 선정작 (6차)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/222</id>
-        <link href="http://factcheck.snu.ac.kr/documents/222"/>
-        <updated>2021-10-07T14:17:08.705Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/222">팩트체킹 취재보도 지원사업 역대 선정작 (6차)</a>
-  </td>
-  <td>2021.01.08</td>]]></content>
     </entry>
 </feed>
