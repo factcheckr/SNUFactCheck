@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T07:17:41.158Z</updated>
+    <updated>2021-10-27T08:20:59.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[넷플릭스가 수익을 독식하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3427"/>
         <updated>2021-10-26T05:14:57.897Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의힘의 경기도청 국정감사 자료 제출 요구는 지나치다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3435</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3435"/>
+        <updated>2021-10-27T08:19:37.691Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[훈민정음은 중국어의 한자 소리를 적기 위해 만든 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3428"/>
         <updated>2021-10-26T05:14:57.894Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 평균 관광산업 GDP 기여율은 10%지만, 우리나라는 2.8%에 불과하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3431</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3431"/>
-        <updated>2021-10-26T05:14:57.896Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 안 맞은 자녀도 격리없이 하와이 여행 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
