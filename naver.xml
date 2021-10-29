@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-10-29T07:17:57.051Z</updated>
+    <updated>2021-10-29T08:21:19.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NATO식 핵공유를 한다 하더라도 발사권은 미국 대통령이 가지고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3449</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3449"/>
+        <updated>2021-10-29T08:19:58.101Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19가 남성보다 여성 고용에 더 악영향을 미쳤다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3442</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3442"/>
+        <updated>2021-10-29T08:19:58.101Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구의역 스크린도어 김군의 사망사건은 민주노총 조합원의 이기심과 안전불감증이 낳은 참사였다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3448</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3448"/>
+        <updated>2021-10-29T08:19:58.102Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 가덕도 신공항 특별법 이후 국고 지원하지 않는다는 기부 대 양여 방식 원칙이 훼손됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3447</id>
@@ -52,27 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3438</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3438"/>
         <updated>2021-10-26T09:16:43.222Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보 '정신분석' 미국에선 넘쳐난다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3437</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3437"/>
-        <updated>2021-10-26T09:16:43.222Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확산에도 취업자 수가 증가한 것은 경제 회복 증거다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3429</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3429"/>
-        <updated>2021-10-26T05:14:57.881Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자친구에게 낙태를 종용했다면 범죄다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3430</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3430"/>
-        <updated>2021-10-26T05:14:57.882Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
