@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
     <title>SNU 팩트체크 ─ 공지사항</title>
-    <updated>2021-11-03T12:27:18.110Z</updated>
+    <updated>2021-11-03T13:22:43.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수)]]></title>
+        <title type="html"><![CDATA[2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수, 11/8(월) 17시까지)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/252</id>
         <link href="http://factcheck.snu.ac.kr/documents/252"/>
         <updated>2021-10-25T10:19:07.398Z</updated>
         <content type="html"><![CDATA[<td>
-    <a href="/documents/252">2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수)</a>
+    <a href="/documents/252">2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수, 11/8(월) 17시까지)</a>
   </td>
   <td>2021.10.25</td>]]></content>
     </entry>
