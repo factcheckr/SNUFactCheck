@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-03T08:21:11.848Z</updated>
+    <updated>2021-11-03T09:20:24.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[지지율 높은 후보가 비호감도도 높다.]]></title>
+        <title type="html"><![CDATA[대통령후보 지지율을 조사하거나 투표를 유도하는 온라인 커뮤니티 글은 선거법 위반이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3469</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3469"/>
+        <updated>2021-11-03T09:18:59.739Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤중 샤워나 목욕 소리도 층간소음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3470</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3470"/>
+        <updated>2021-11-03T09:18:59.740Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유류세를 인하하면 부자들이 더 혜택받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3456</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3456"/>
+        <updated>2021-11-03T09:18:59.740Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지지율 높은 후보가 비호감도도 높다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3467</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3467"/>
         <updated>2021-11-03T08:19:49.870Z</updated>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3461"/>
         <updated>2021-11-02T06:19:50.076Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인구 1000명당 사회서비스 취업자 수는 OECD 평균 70.4명이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3460</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3460"/>
-        <updated>2021-11-01T06:20:31.120Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현 의원 땅 1,800배 올랐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3459</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3459"/>
-        <updated>2021-11-01T06:20:31.120Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르헨티나는 2018년 연금 지급을 2배로 올렸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3458</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3458"/>
-        <updated>2021-11-01T06:20:31.120Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
