@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-09T10:19:54.457Z</updated>
+    <updated>2021-11-09T11:15:29.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -148,7 +148,7 @@
         <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3493</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3493"/>
-        <updated>2021-11-09T10:18:46.991Z</updated>
+        <updated>2021-11-09T10:18:34.205Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
