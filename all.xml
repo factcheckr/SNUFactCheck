@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-09T09:17:14.031Z</updated>
+    <updated>2021-11-09T10:19:54.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3493</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3493"/>
+        <updated>2021-11-09T10:18:34.205Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['얀센 부스터샷' 화이자보다 모더나가 더 좋다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3487</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3485"/>
         <updated>2021-11-08T07:16:56.907Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표 캠프가 공개한 <윤석열 실언·망언 리스트> 내용은 모두 윤석열 후보가 실제로 한 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3481</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3481"/>
-        <updated>2021-11-08T07:16:56.908Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신으로 인한 사망 보상금이 7,200원이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3493</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3493"/>
+        <updated>2021-11-09T10:18:46.991Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['얀센 부스터샷' 화이자보다 모더나가 더 좋다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3487</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3487"/>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[코로나 공포가 성생활에 긍정적인 역할을 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3352</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3352"/>
-        <updated>2021-10-07T15:17:11.639Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동량과 코로나-19 확진자 상관관계 크다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3341</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3341"/>
         <updated>2021-10-07T15:17:11.639Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
