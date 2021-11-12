@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-12T04:22:50.982Z</updated>
+    <updated>2021-11-12T05:16:46.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -52,13 +52,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3489</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3489"/>
         <updated>2021-11-09T07:16:27.139Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신으로 인한 사망 보상금이 7,200원이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3484</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3484"/>
-        <updated>2021-11-08T07:16:56.906Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
