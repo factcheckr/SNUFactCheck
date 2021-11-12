@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-12T08:21:21.697Z</updated>
+    <updated>2021-11-12T09:17:02.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -24,20 +24,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3488"/>
         <updated>2021-11-09T07:16:27.135Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통상적으로 우주 발사체의 성공 확률은 30%에 불과하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3492</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3492"/>
-        <updated>2021-11-09T07:16:27.135Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 상황에서 대한민국 경제성장률 세계 1위다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3490</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3490"/>
-        <updated>2021-11-09T07:16:27.139Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심근염을 피하기 위해서는 코로나19 백신을 심장에서 먼 오른팔에 맞아야 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
