@@ -2,28 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-15T07:18:11.708Z</updated>
+    <updated>2021-11-15T08:21:38.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3493</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3493"/>
-        <updated>2021-11-09T10:18:34.205Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얀센 부스터샷' 화이자보다 모더나가 더 좋다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3487</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3487"/>
-        <updated>2021-11-09T07:16:27.135Z</updated>
+        <title type="html"><![CDATA[백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3503</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3503"/>
+        <updated>2021-11-15T08:20:19.573Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 초과세수 40조 원으로 국민 재난지원금 지급 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3488</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3488"/>
-        <updated>2021-11-09T07:16:27.135Z</updated>
+        <title type="html"><![CDATA[경항모 사업에 혈세 20조 원이 넘게 든다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3506</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3506"/>
+        <updated>2021-11-15T08:20:19.578Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남의 아파트 놀이터'에서 놀면 주거침입이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3501</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3501"/>
+        <updated>2021-11-15T08:20:19.578Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장기 기증자-수혜자 편지 교환, 우리나라는 불가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3505</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3505"/>
+        <updated>2021-11-15T08:20:19.579Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 코로나 지원금, 세계적으로 낮은 수준이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3504</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3504"/>
+        <updated>2021-11-15T08:20:19.579Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전당대회 이후 탈당자 2배 입당했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3502</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3502"/>
+        <updated>2021-11-15T08:20:19.580Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[암모니아가 차량용 요소수 대체할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3500</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3500"/>
+        <updated>2021-11-15T08:20:19.580Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공모주 균등배정제도가 증권사 배만 불린다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3499</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3499"/>
+        <updated>2021-11-15T08:20:19.582Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한해에 낙태는 110만 건 이뤄진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3497</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3497"/>
+        <updated>2021-11-15T08:20:19.582Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3503</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3503"/>
+        <updated>2021-11-15T08:20:25.812Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심근염을 피하기 위해서는 코로나19 백신을 심장에서 먼 오른팔에 맞아야 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -73,13 +122,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3369"/>
         <updated>2021-10-08T07:17:36.354Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국·영국 백신 부작용 사망 보고가 코로나 사망자보다 많다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3366</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3366"/>
-        <updated>2021-10-08T06:21:25.007Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 감염률·사망률, 도시가 시골보다 더 높다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
