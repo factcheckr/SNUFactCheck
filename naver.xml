@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-18T08:25:44.877Z</updated>
+    <updated>2021-11-18T09:18:33.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3510"/>
         <updated>2021-11-18T08:24:21.260Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫눈이 일찍 오면 그해 겨울은 더 춥다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3514</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3514"/>
+        <updated>2021-11-18T09:17:13.113Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사 소유의 PC·휴대전화는 사용하는 직원의 동의 없이 열람할 수 있다]]></title>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3504</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3504"/>
         <updated>2021-11-15T08:20:19.579Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전당대회 이후 탈당자 2배 입당했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3502</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3502"/>
-        <updated>2021-11-15T08:20:19.580Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
