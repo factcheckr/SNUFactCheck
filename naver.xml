@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-22T04:24:04.415Z</updated>
+    <updated>2021-11-22T05:16:44.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박근혜는 경선 후 대선판에서 나타난 일이 없었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3520</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3520"/>
+        <updated>2021-11-22T05:15:25.830Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국, OECD 국가 중 국가부채비율 증가 속도 가장 빠르고 2030년 이후 잠재성장률은 꼴찌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3518</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3518"/>
+        <updated>2021-11-19T08:20:06.858Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다음 대통령 때 팬데믹 또 온다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3512</id>
@@ -34,13 +48,6 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국, OECD 국가 중 국가부채비율 증가 속도 가장 빠르고 2030년 이후 잠재성장률은 꼴찌다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3518</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3518"/>
-        <updated>2021-11-19T08:20:06.858Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[문재인 대통령은 끝내 천안함 사건이 북한 소행이라는 발언을 하지 않는다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3517</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3517"/>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3510"/>
         <updated>2021-11-18T08:24:21.260Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫눈이 일찍 오면 그해 겨울은 더 춥다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3514</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3514"/>
-        <updated>2021-11-18T09:17:13.113Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
