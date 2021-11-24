@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-24T05:16:47.814Z</updated>
+    <updated>2021-11-24T06:21:32.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강화된 법‧제도에도 불법촬영 범죄 줄지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3522</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3522"/>
+        <updated>2021-11-24T06:20:09.061Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성가족부가 특정 성별에 치우친 정책을 하고 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3521</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3516"/>
         <updated>2021-11-18T11:14:12.076Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사고 책임이 더 큰 킥보드 운전자의 치료비도 차량 운전자가 문다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3515</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3515"/>
-        <updated>2021-11-18T10:18:44.869Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
