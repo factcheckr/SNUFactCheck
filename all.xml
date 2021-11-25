@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T10:20:00.392Z</updated>
+    <updated>2021-11-25T11:18:21.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[기온이 낮은 남극에서는 감기에 걸리지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3525</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3525"/>
+        <updated>2021-11-25T11:17:00.242Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 공시가 9억 이상 주택 종부세 평균세액은 273만 원에 불과했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3527</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3512"/>
         <updated>2021-11-19T08:20:06.847Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계적으로 주 4일제를 주도하는 것은 스타트업·중소기업이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3511</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3511"/>
-        <updated>2021-11-19T08:20:06.851Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 CEO, 백신 안 맞았다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
