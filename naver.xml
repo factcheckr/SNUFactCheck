@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-26T08:21:29.664Z</updated>
+    <updated>2021-11-26T09:18:44.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공용폰은 디지털 포렌식 때 정보주체 동의 필요하지 않다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3509</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3509"/>
+        <updated>2021-11-26T08:20:07.829Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인들만 '물질적 풍요'를 가장 중시한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3529</id>
@@ -18,13 +25,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3528"/>
         <updated>2021-11-26T08:20:07.829Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공용폰은 디지털 포렌식 때 정보주체 동의 필요하지 않다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3509</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3509"/>
-        <updated>2021-11-26T08:20:07.829Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기온이 낮은 남극에서는 감기에 걸리지 않는다]]></title>
