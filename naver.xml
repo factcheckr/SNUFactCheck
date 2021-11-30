@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-30T07:14:24.304Z</updated>
+    <updated>2021-11-30T08:18:34.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[종전선언을 하면 유엔사령부가 무력화된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3537</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3537"/>
-        <updated>2021-11-30T06:16:45.485Z</updated>
+        <title type="html"><![CDATA[배달음식에서 이물질이 나왔을 때 보상금을 받을 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3551</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3551"/>
+        <updated>2021-11-30T08:17:14.903Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라는 인구 100만 명당 사망자 수가 상대적으로 아주 적은 편이다.]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3548</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3548"/>
+        <updated>2021-11-30T08:17:14.907Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 초과 세수는 50조원이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3541</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3541"/>
+        <updated>2021-11-30T08:17:14.907Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국에서는 여경 뽑을 때 남녀 체력 기준이 같다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3538</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3538"/>
+        <updated>2021-11-30T08:17:14.908Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년부터 경찰 체력시험은 여성 기준으로 변경되기 때문에 경찰 체력을 하향 평준화시킬 것이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3536</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3536"/>
-        <updated>2021-11-29T09:17:34.109Z</updated>
+        <title type="html"><![CDATA[전두환 33년전 백담사 갈 때 5·18 사과했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3550</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3550"/>
+        <updated>2021-11-30T08:17:14.909Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['무궁화 꽃이 피었습니다' 놀이 원조가 일본이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3498</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3498"/>
-        <updated>2021-11-29T09:17:34.109Z</updated>
+        <title type="html"><![CDATA[모듈러 공법으로 짓는 교실, 안전성에 문제있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3542</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3542"/>
+        <updated>2021-11-30T08:17:14.910Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3534</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3534"/>
-        <updated>2021-11-29T07:17:17.284Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+        <title type="html"><![CDATA[집 앞에서 기다리거나 따라가는 취재 행위도 스토킹이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3540</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3540"/>
+        <updated>2021-11-30T08:17:14.911Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문재인 정부 기간 동안 역대 어느 정부보다 입주·인허가 물량이 많았으며, 앞으로 계획되고 있는 물량도 많다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3533</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3533"/>
-        <updated>2021-11-29T07:17:17.286Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9.4GW 규모 수상태양광 발전량이 원전 9기에 해당한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3530</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3530"/>
-        <updated>2021-11-29T07:17:17.286Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 문맹률 80%라 군부독재는 숙명이었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3535</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3535"/>
-        <updated>2021-11-29T07:17:17.287Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 주식은 배당을 적게 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3532</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3532"/>
-        <updated>2021-11-29T07:17:17.287Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산부인과 명칭은 여성을 부인으로 칭했던 일제 잔재다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3531</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3531"/>
-        <updated>2021-11-29T07:17:17.287Z</updated>
+        <title type="html"><![CDATA[투·개표에 동원되는 공무원들 시급 6천 원 받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3549</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3549"/>
+        <updated>2021-11-30T08:17:14.912Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강화된 법 제도에도 불법촬영 범죄 줄지 않았다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3522</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3522"/>
-        <updated>2021-11-24T06:20:09.061Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
+        <title type="html"><![CDATA[맹견 아닌 대형견에도 입마개 채우게 할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3539</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3539"/>
+        <updated>2021-11-30T08:17:14.913Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블프'에 해외 직구해 남에게 되팔아도 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3547</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3547"/>
+        <updated>2021-11-30T08:17:14.914Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>

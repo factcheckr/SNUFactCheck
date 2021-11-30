@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2021-11-30T07:14:24.296Z</updated>
+    <updated>2021-11-30T08:18:34.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라는 인구 100만 명당 사망자 수가 상대적으로 아주 적은 편이다.]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3548</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3548"/>
+        <updated>2021-11-30T08:17:21.109Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자 CEO, 백신 안 맞았다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3519</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3386"/>
         <updated>2021-10-14T06:21:33.691Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LED로 집에서 코로나19 치료한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3387</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3387"/>
-        <updated>2021-10-14T06:21:33.691Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
