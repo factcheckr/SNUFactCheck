@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-11-30T05:14:26.336Z</updated>
+    <updated>2021-11-30T06:18:06.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종전선언을 하면 유엔사령부가 무력화된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3537</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3537"/>
+        <updated>2021-11-30T06:16:45.485Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년부터 경찰 체력시험은 여성 기준으로 변경되기 때문에 경찰 체력을 하향 평준화시킬 것이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3536</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3522"/>
         <updated>2021-11-24T06:20:09.061Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공용폰은 디지털 포렌식 때 정보주체 동의 필요하지 않다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3509</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3509"/>
-        <updated>2021-11-26T08:20:07.829Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
