@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-02T10:19:31.335Z</updated>
+    <updated>2021-12-02T11:15:31.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[윤석열이 공개적인 자리에서 자신의 수행실장인 현역 의원에게 욕설을 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3562</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3562"/>
-        <updated>2021-12-02T10:18:17.028Z</updated>
+        <updated>2021-12-02T10:18:10.885Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -148,14 +148,14 @@
         <title type="html"><![CDATA[오미크론 변이는 에이즈 환자에게서 처음 발생했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3557</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3557"/>
-        <updated>2021-12-02T10:18:23.599Z</updated>
+        <updated>2021-12-02T10:18:10.885Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새 변이 바이러스 이름 '오미크론', 시진핑 의식해 지었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3556</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3556"/>
-        <updated>2021-12-02T10:18:23.601Z</updated>
+        <updated>2021-12-02T10:18:10.887Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
