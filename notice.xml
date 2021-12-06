@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
     <title>SNU 팩트체크 ─ 공지사항</title>
-    <updated>2021-12-06T13:28:11.317Z</updated>
+    <updated>2021-12-06T14:16:27.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['언론중재 및 피해구제 등에 관한 법률 일부개정법률안(대안)']]></title>
+        <id>http://factcheck.snu.ac.kr/documents/259</id>
+        <link href="http://factcheck.snu.ac.kr/documents/259"/>
+        <updated>2021-12-06T14:16:26.533Z</updated>
+        <content type="html"><![CDATA[<td>
+    <a href="/documents/259">'언론중재 및 피해구제 등에 관한 법률 일부개정법률안(대안)'</a>
+  </td>
+  <td>2021.12.06</td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 「SNU 팩트체크 우수상」 수상작 발표]]></title>
         <id>http://factcheck.snu.ac.kr/documents/254</id>
@@ -244,15 +254,5 @@
     <a href="/documents/228">제7기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동)</a>
   </td>
   <td>2021.02.01</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년도 상반기 팩트체킹 취재보도 지원사업 공고(1.13 ~ 3.2)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/224</id>
-        <link href="http://factcheck.snu.ac.kr/documents/224"/>
-        <updated>2021-10-07T14:17:08.701Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/224">2021년도 상반기 팩트체킹 취재보도 지원사업 공고(1.13 ~ 3.2)</a>
-  </td>
-  <td>2021.01.13</td>]]></content>
     </entry>
 </feed>
