@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-12-06T21:16:58.768Z</updated>
+    <updated>2021-12-07T07:18:39.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3562</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3562"/>
+        <updated>2021-12-02T10:18:10.885Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검사 출신 권력이 윤석열 국민의힘 선대위를 장악했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3572</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3572"/>
+        <updated>2021-12-07T07:17:19.896Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 닭이 지구에서 유일하게 작고, 그래서 맛이 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3570</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3557"/>
         <updated>2021-12-02T10:18:10.885Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3562</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3562"/>
-        <updated>2021-12-02T10:18:10.885Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 할당제 거의 없고 오히려 남성이 혜택 본다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3558</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3558"/>
-        <updated>2021-12-02T10:18:10.886Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
