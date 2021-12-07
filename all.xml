@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-07T15:20:11.715Z</updated>
+    <updated>2021-12-07T16:28:13.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3570"/>
         <updated>2021-12-06T08:20:55.008Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보가 말하는 최저임금제 폐지는 위헌이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3567</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3567"/>
+        <updated>2021-12-07T16:26:55.475Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놀이터 갈등이 끊이지 않는 이유는 놀이터가 부족해서다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3563"/>
         <updated>2021-12-02T10:18:10.885Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 변이는 에이즈 환자에게서 처음 발생했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3557</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3557"/>
-        <updated>2021-12-02T10:18:10.885Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
