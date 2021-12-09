@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-12-09T07:18:24.539Z</updated>
+    <updated>2021-12-09T08:21:47.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불법 논란 '왕릉뷰 아파트'는 위치에 따라 부분 철거해야 하지만 사실상 불가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3574</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3574"/>
+        <updated>2021-12-09T08:20:28.438Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민·공무원연금 개혁, 둘 다 안한 정부는 문재인 정부가 유일하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3578</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3578"/>
+        <updated>2021-12-09T08:20:28.438Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년확장실업률이 27%를 넘나들어 청년 4명 중 1명이 실업이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3575</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3575"/>
+        <updated>2021-12-09T08:20:28.438Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재명이네'의 '오뚜기' 상표 변형 사용은 상표권 침해다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3576</id>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3566"/>
         <updated>2021-12-06T08:20:55.014Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 후보의 호남 지지율은 역대 민주당 대통령 후보들에 비해 낮다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3565</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3565"/>
-        <updated>2021-12-06T08:20:55.014Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이러스의 전파력이 높을수록 치명률은 낮다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3569</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3569"/>
-        <updated>2021-12-06T08:20:55.015Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCR 검사 영문확인서 발급 수수료가 20만원이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3568</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3568"/>
-        <updated>2021-12-06T08:20:55.019Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
