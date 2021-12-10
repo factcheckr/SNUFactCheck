@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T06:21:23.962Z</updated>
+    <updated>2021-12-10T07:18:18.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뇌종양 수술받아도 군 면제 아니다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3579</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3579"/>
+        <updated>2021-12-10T07:16:56.754Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진자 치료시설이 부족해 ‘자택치료’를 강요받고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3577</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3570"/>
         <updated>2021-12-06T08:20:55.008Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보가 말하는 최저임금제 폐지는 위헌이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3567</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3567"/>
-        <updated>2021-12-07T16:26:55.475Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신, 오미크론에 무력하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
