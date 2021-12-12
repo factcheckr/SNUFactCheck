@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-12T08:21:20.589Z</updated>
+    <updated>2021-12-12T09:16:47.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[만혼 추세는 사실이 아니다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -213,6 +213,26 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3396"/>
         <updated>2021-10-19T08:21:18.203Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/261</id>
+        <link href="http://factcheck.snu.ac.kr/documents/261"/>
+        <updated>2021-12-12T09:16:47.165Z</updated>
+        <content type="html"><![CDATA[<td>
+    <a href="/documents/261">제4회 SNU팩트체크 우수상 수상작 후기 2</a>
+  </td>
+  <td>2021.12.12</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 1 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/260</id>
+        <link href="http://factcheck.snu.ac.kr/documents/260"/>
+        <updated>2021-12-12T09:16:47.166Z</updated>
+        <content type="html"><![CDATA[<td>
+    <a href="/documents/260">제4회 SNU팩트체크 우수상 수상작 후기 1</a>
+  </td>
+  <td>2021.12.12</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['언론중재 및 피해구제 등에 관한 법률 일부개정법률안(대안)' (SNU 팩트체크 ─ 공지사항)]]></title>
@@ -443,25 +463,5 @@
     <a href="/documents/231">한국언론학회-SNU팩트체크 공동 '제7기 팩트체킹 인턴십' 최종 합격자 공고</a>
   </td>
   <td>2021.02.08</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 한국팩트체크대상 공고 (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/230</id>
-        <link href="http://factcheck.snu.ac.kr/documents/230"/>
-        <updated>2021-10-07T15:17:18.679Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/230">제4회 한국팩트체크대상 공고</a>
-  </td>
-  <td>2021.02.04</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제7기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동) (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/228</id>
-        <link href="http://factcheck.snu.ac.kr/documents/228"/>
-        <updated>2021-10-07T15:17:18.680Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/228">제7기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동)</a>
-  </td>
-  <td>2021.02.01</td>]]></content>
     </entry>
 </feed>
