@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-16T06:21:24.811Z</updated>
+    <updated>2021-12-16T07:18:20.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코로나19 검사용 면봉에 발암 물질이 들어 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -148,7 +148,7 @@
         <title type="html"><![CDATA[코로나19 검사용 면봉에 발암 물질이 들어 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3596</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3596"/>
-        <updated>2021-12-16T06:20:16.912Z</updated>
+        <updated>2021-12-16T06:20:04.226Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
