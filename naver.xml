@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-12-16T03:19:04.819Z</updated>
+    <updated>2021-12-16T04:23:21.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전동 킥보드 음주운전 시 자동차와 동일한 처벌을 받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3585</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3585"/>
+        <updated>2021-12-16T04:21:59.205Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['n번방 방지법'은 사전검열법이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3593</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3588"/>
         <updated>2021-12-13T07:16:52.606Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열은 간담회에서 질문에 답변하지 않고 이준석에게 마이크만 넘겼다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3587</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3587"/>
-        <updated>2021-12-13T07:16:52.606Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
