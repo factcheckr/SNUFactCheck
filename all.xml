@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T10:19:57.131Z</updated>
+    <updated>2021-12-17T11:12:57.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[자영업 비중, 우리나라 OECD 2등이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3604</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3604"/>
+        <updated>2021-12-17T11:12:31.874Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핀란드, 스웨덴은 학급당 학생 수가 15명이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3602</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3594"/>
         <updated>2021-12-15T09:17:24.761Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쥴리' '르네상스' 단어, 선관위에서 제재중이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3592</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3592"/>
-        <updated>2021-12-14T09:17:16.056Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FDA가 익명 투표로 백신 부스터샷을 반대했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -233,16 +233,6 @@
     <a href="/documents/260">제4회 SNU팩트체크 우수상 수상작 후기 1</a>
   </td>
   <td>2021.12.12</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언론중재 및 피해구제 등에 관한 법률 일부개정법률안(대안)' (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/259</id>
-        <link href="http://factcheck.snu.ac.kr/documents/259"/>
-        <updated>2021-12-06T14:16:26.533Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/259">'언론중재 및 피해구제 등에 관한 법률 일부개정법률안(대안)'</a>
-  </td>
-  <td>2021.12.06</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 「SNU 팩트체크 우수상」 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
@@ -463,5 +453,15 @@
     <a href="/documents/231">한국언론학회-SNU팩트체크 공동 '제7기 팩트체킹 인턴십' 최종 합격자 공고</a>
   </td>
   <td>2021.02.08</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 한국팩트체크대상 공고 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/230</id>
+        <link href="http://factcheck.snu.ac.kr/documents/230"/>
+        <updated>2021-12-17T11:12:57.098Z</updated>
+        <content type="html"><![CDATA[<td>
+    <a href="/documents/230">제4회 한국팩트체크대상 공고</a>
+  </td>
+  <td>2021.02.04</td>]]></content>
     </entry>
 </feed>
