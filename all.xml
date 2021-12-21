@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-21T02:12:10.007Z</updated>
+    <updated>2021-12-21T03:19:32.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한국전력의 여성수당 지원금은 위법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[포괄적 차별금지법 제정이 통과된 선진국 여러 나라에서 동성혼을 합법화했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3599</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3599"/>
+        <updated>2021-12-21T03:18:12.952Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FDA가 익명 투표로 백신 부스터샷을 반대했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3598</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3598"/>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3597"/>
         <updated>2021-12-16T06:20:04.227Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전동 킥보드 음주운전 시 자동차와 동일한 처벌을 받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3585</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3585"/>
-        <updated>2021-12-16T04:21:59.205Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FDA가 익명 투표로 백신 부스터샷을 반대했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
