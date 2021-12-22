@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-22T06:22:35.438Z</updated>
+    <updated>2021-12-22T07:18:30.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[PCR 검사용 면봉에 발암물질이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3609</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3609"/>
+        <updated>2021-12-22T07:17:09.247Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선관위가 이재명 후보 욕설 원본 유포는 허용했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3607</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3607"/>
+        <updated>2021-12-22T07:17:09.247Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업 로고를 패러디해서 선거 홍보에 활용하면 상표법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3608</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3608"/>
+        <updated>2021-12-22T07:17:09.249Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40대 이상 출입금지, 차별행위로 처벌할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3583</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3583"/>
+        <updated>2021-12-22T07:17:09.251Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국전력의 여성수당 지원금은 위법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3606</id>
@@ -45,34 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3600"/>
         <updated>2021-12-17T10:18:37.286Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포괄적 차별금지법 제정이 통과된 선진국 여러 나라에서 동성혼을 합법화했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3599</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3599"/>
-        <updated>2021-12-21T03:18:12.952Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA가 익명 투표로 백신 부스터샷을 반대했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3598</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3598"/>
-        <updated>2021-12-16T08:21:33.842Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 검사용 면봉에 발암 물질이 들어 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3596</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3596"/>
-        <updated>2021-12-16T06:20:04.226Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 하원은 법조인 출신이 75% 정도다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3597</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3597"/>
-        <updated>2021-12-16T06:20:04.227Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FDA가 익명 투표로 백신 부스터샷을 반대했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PCR 검사용 면봉에 발암물질이 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3609</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3609"/>
+        <updated>2021-12-22T07:17:22.750Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코로나19 검사용 면봉에 발암 물질이 들어 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3596</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3596"/>
@@ -206,13 +213,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3439"/>
         <updated>2021-10-27T09:16:28.551Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확산에도 취업자 수가 증가한 것은 경제 회복 증거다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3429</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3429"/>
-        <updated>2021-10-26T05:14:57.881Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
