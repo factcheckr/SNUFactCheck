@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-22T09:18:50.826Z</updated>
+    <updated>2021-12-22T10:20:08.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['n번방 방지법'으로 고양이 동영상도 검열된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3611"/>
         <updated>2021-12-22T08:20:52.393Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[질병으로 판단력이 부족한 이용자가 BJ에게 후원한 별풍선은 환불받을 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3610</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3610"/>
+        <updated>2021-12-22T10:18:48.996Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PCR 검사용 면봉에 발암물질이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3604</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3604"/>
         <updated>2021-12-17T11:12:31.874Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핀란드, 스웨덴은 학급당 학생 수가 15명이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3602</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3602"/>
-        <updated>2021-12-17T10:18:37.286Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
