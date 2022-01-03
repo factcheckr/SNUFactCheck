@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-03T09:07:04.106Z</updated>
+    <updated>2022-01-03T09:15:42.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[원전 발전단가가 태양광보다 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -213,6 +213,76 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3442"/>
         <updated>2021-10-29T08:19:58.101Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원전 발전단가가 태양광보다 높다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3641</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3641"/>
+        <updated>2022-01-03T07:05:57.303Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 전체 가구의 3.7%가 비정상 거처에서 살고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3629</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3629"/>
+        <updated>2021-12-31T17:39:09.906Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 후보 본인이 사퇴하지 않아도 후보를 교체할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3631</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3631"/>
+        <updated>2021-12-31T17:39:09.906Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영부인은 대통령 배우자만 지칭하는 용어다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3639</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3639"/>
+        <updated>2021-12-31T17:39:09.906Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문 정부에서 핵발전소 용량이 증가했고, 4기의 핵발전소가 건설되고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3632</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3632"/>
+        <updated>2021-12-31T17:39:09.912Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최저임금위원회, 정부가 다수 차지해 항상 정부 뜻대로 정해진다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3628</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3628"/>
+        <updated>2022-01-03T09:14:34.382Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌게이츠·저커버그·머스크, 양극화 걱정하며 기본소득 주장했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3627</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3627"/>
+        <updated>2022-01-03T09:14:34.383Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 선거법 위반으로 후보등록 못한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3624</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3624"/>
+        <updated>2022-01-03T09:14:34.384Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국은 행정 권력 하나이지만, 한국은 행정권, 인사권, 예산권, 감사권, 입법권까지 5개의 절대 반지를 가지고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3621</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3621"/>
+        <updated>2022-01-03T09:14:34.385Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종부세 과세로 국민 10% 넘게 영향을 받는다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3620</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3620"/>
+        <updated>2022-01-03T09:14:34.387Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
