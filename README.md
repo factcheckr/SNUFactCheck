@@ -3,5 +3,6 @@
 
 ## 네이버 뉴스
 - 전체: https://factcheckr.github.io/SNUFactCheck/naver.xml
-- 코로나 백신: https://factcheckr.github.io/SNUFactCheck/naver_vaccine.xml
+- 코로나백신: https://factcheckr.github.io/SNUFactCheck/naver_vaccine.xml
 - 코로나19: https://factcheckr.github.io/SNUFactCheck/naver_covid19.xml
+- 20대 대선: https://factcheckr.github.io/SNUFactCheck/naver_presidential-election.xml
