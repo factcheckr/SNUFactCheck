@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-03T16:09:03.020Z</updated>
+    <updated>2022-01-03T17:17:32.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[원전 발전단가가 태양광보다 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -285,253 +285,178 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제9기 팩트체킹 인턴십 참가자 모집(한국언론학회-SNU팩트체크센터 공동) (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/263</id>
+        <link href="http://factcheck.snu.ac.kr/documents/263"/>
+        <updated>2022-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.01.03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/261</id>
         <link href="http://factcheck.snu.ac.kr/documents/261"/>
         <updated>2021-12-12T09:16:47.165Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/261">제4회 SNU팩트체크 우수상 수상작 후기 2</a>
-  </td>
-  <td>2021.12.12</td>]]></content>
+        <content type="html"><![CDATA[2021.12.12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 SNU팩트체크 우수상 수상작 후기 1 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/260</id>
         <link href="http://factcheck.snu.ac.kr/documents/260"/>
         <updated>2021-12-12T09:16:47.166Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/260">제4회 SNU팩트체크 우수상 수상작 후기 1</a>
-  </td>
-  <td>2021.12.12</td>]]></content>
+        <content type="html"><![CDATA[2021.12.12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 「SNU 팩트체크 우수상」 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/254</id>
         <link href="http://factcheck.snu.ac.kr/documents/254"/>
         <updated>2021-11-08T05:15:41.675Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/254">제4회 「SNU 팩트체크 우수상」 수상작 발표</a>
-  </td>
-  <td>2021.11.08</td>]]></content>
+        <content type="html"><![CDATA[2021.11.08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수, 11/8(월) 17시까지) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/252</id>
         <link href="http://factcheck.snu.ac.kr/documents/252"/>
         <updated>2021-10-25T10:19:07.398Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/252">2021 KPF-SNU팩트체크센터 공동 [팩트체크 디플로마] 과정 참가 신청 안내 (선착순 접수, 11/8(월) 17시까지)</a>
-  </td>
-  <td>2021.10.25</td>]]></content>
+        <content type="html"><![CDATA[2021.10.25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 한국팩트체크대상 수상자 인터뷰 영상 공개 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/251</id>
         <link href="http://factcheck.snu.ac.kr/documents/251"/>
         <updated>2021-10-07T15:17:18.644Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/251">제4회 한국팩트체크대상 수상자 인터뷰 영상 공개</a>
-  </td>
-  <td>2021.10.06</td>]]></content>
+        <content type="html"><![CDATA[2021.10.06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온라인 <청소년 팩트체크 스쿨> 개최 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/250</id>
         <link href="http://factcheck.snu.ac.kr/documents/250"/>
         <updated>2021-10-07T15:17:18.644Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/250">온라인 &lt;청소년 팩트체크 스쿨&gt; 개최 </a>
-  </td>
-  <td>2021.09.17</td>]]></content>
+        <content type="html"><![CDATA[2021.09.17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 하반기 「팩트체킹 취재보도 지원 사업」선정 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/249</id>
         <link href="http://factcheck.snu.ac.kr/documents/249"/>
         <updated>2021-10-07T15:17:18.650Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/249">2021 하반기 「팩트체킹 취재보도 지원 사업」선정 발표</a>
-  </td>
-  <td>2021.09.06</td>]]></content>
+        <content type="html"><![CDATA[2021.09.06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제3회 SNU팩트체크 우수상 수상작 후기 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/248</id>
         <link href="http://factcheck.snu.ac.kr/documents/248"/>
         <updated>2021-10-07T15:17:18.652Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/248">제3회 SNU팩트체크 우수상 수상작 후기</a>
-  </td>
-  <td>2021.08.23</td>]]></content>
+        <content type="html"><![CDATA[2021.08.23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8/31(화) SNU팩트체크 산학 연계 연구 프로젝트 세미나 개최 안내 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/247</id>
         <link href="http://factcheck.snu.ac.kr/documents/247"/>
         <updated>2021-10-07T15:17:18.654Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/247">8/31(화) SNU팩트체크 산학 연계 연구 프로젝트 세미나 개최 안내</a>
-  </td>
-  <td>2021.08.20</td>]]></content>
+        <content type="html"><![CDATA[2021.08.20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국언론학회-SNU팩트체크 공동 '제8기 팩트체킹 인턴십' 최종 합격자 공고 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/246</id>
         <link href="http://factcheck.snu.ac.kr/documents/246"/>
         <updated>2021-10-07T15:17:18.656Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/246">한국언론학회-SNU팩트체크 공동 '제8기 팩트체킹 인턴십' 최종 합격자 공고</a>
-  </td>
-  <td>2021.08.16</td>]]></content>
+        <content type="html"><![CDATA[2021.08.16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제8기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/245</id>
         <link href="http://factcheck.snu.ac.kr/documents/245"/>
         <updated>2021-10-07T15:17:18.657Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/245">제8기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동)</a>
-  </td>
-  <td>2021.08.10</td>]]></content>
+        <content type="html"><![CDATA[2021.08.10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<청소년 팩트체크 스쿨> 고등학생 참가자 모집 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/244</id>
         <link href="http://factcheck.snu.ac.kr/documents/244"/>
         <updated>2021-10-07T15:17:18.658Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/244">&lt;청소년 팩트체크 스쿨&gt; 고등학생 참가자 모집 </a>
-  </td>
-  <td>2021.08.05</td>]]></content>
+        <content type="html"><![CDATA[2021.08.05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제2회 SNU팩트체크 우수상 수상작 후기 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/243</id>
         <link href="http://factcheck.snu.ac.kr/documents/243"/>
         <updated>2021-10-07T15:17:18.659Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/243">제2회 SNU팩트체크 우수상 수상작 후기</a>
-  </td>
-  <td>2021.08.03</td>]]></content>
+        <content type="html"><![CDATA[2021.08.03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제1회 SNU팩트체크 우수상 수상작 후기 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/242</id>
         <link href="http://factcheck.snu.ac.kr/documents/242"/>
         <updated>2021-10-07T15:17:18.660Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/242">제1회 SNU팩트체크 우수상 수상작 후기</a>
-  </td>
-  <td>2021.08.03</td>]]></content>
+        <content type="html"><![CDATA[2021.08.03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제3회 「SNU 팩트체크 우수상」 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/241</id>
         <link href="http://factcheck.snu.ac.kr/documents/241"/>
         <updated>2021-10-07T15:17:18.664Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/241">제3회 「SNU 팩트체크 우수상」 수상작 발표</a>
-  </td>
-  <td>2021.07.27</td>]]></content>
+        <content type="html"><![CDATA[2021.07.27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20대 대통령 선거 팩트체크 권고문 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/240</id>
         <link href="http://factcheck.snu.ac.kr/documents/240"/>
         <updated>2021-10-07T15:17:18.668Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/240">20대 대통령 선거 팩트체크 권고문</a>
-  </td>
-  <td>2021.07.26</td>]]></content>
+        <content type="html"><![CDATA[2021.07.26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(7/20 수정) 제8기 팩트체킹 인턴십 참가자 모집(한국언론학회-SNU팩트체크센터 공동) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/238</id>
         <link href="http://factcheck.snu.ac.kr/documents/238"/>
         <updated>2021-10-07T15:17:18.668Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/238">(7/20 수정) 제8기 팩트체킹 인턴십 참가자 모집(한국언론학회-SNU팩트체크센터 공동)</a>
-  </td>
-  <td>2021.07.19</td>]]></content>
+        <content type="html"><![CDATA[2021.07.19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년도 하반기 팩트체킹 취재보도 지원사업 공고(7.16 ~ 8.19) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/237</id>
         <link href="http://factcheck.snu.ac.kr/documents/237"/>
         <updated>2021-10-07T15:17:18.668Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/237">2021년도 하반기 팩트체킹 취재보도 지원사업 공고(7.16 ~ 8.19)</a>
-  </td>
-  <td>2021.07.16</td>]]></content>
+        <content type="html"><![CDATA[2021.07.16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팩트체킹 취재보도 지원사업 역대 선정작 (7차) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/236</id>
         <link href="http://factcheck.snu.ac.kr/documents/236"/>
         <updated>2021-10-07T15:17:18.670Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/236">팩트체킹 취재보도 지원사업 역대 선정작 (7차)</a>
-  </td>
-  <td>2021.07.12</td>]]></content>
+        <content type="html"><![CDATA[2021.07.12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제2회 「SNU 팩트체크 우수상」 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/235</id>
         <link href="http://factcheck.snu.ac.kr/documents/235"/>
         <updated>2021-10-07T15:17:18.673Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/235">제2회 「SNU 팩트체크 우수상」 수상작 발표</a>
-  </td>
-  <td>2021.05.03</td>]]></content>
+        <content type="html"><![CDATA[2021.05.03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 '팩트체크 & 사실검증' 워크숍 참가자 모집 (~5/10) (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/234</id>
         <link href="http://factcheck.snu.ac.kr/documents/234"/>
         <updated>2021-10-07T15:17:18.678Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/234">구글 '팩트체크 &amp; 사실검증' 워크숍 참가자 모집 (~5/10)</a>
-  </td>
-  <td>2021.05.03</td>]]></content>
+        <content type="html"><![CDATA[2021.05.03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 상반기 「팩트체킹 취재보도 지원 사업」선정 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/233</id>
         <link href="http://factcheck.snu.ac.kr/documents/233"/>
         <updated>2021-10-07T15:17:18.679Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/233">2021 상반기 「팩트체킹 취재보도 지원 사업」선정 발표</a>
-  </td>
-  <td>2021.03.22</td>]]></content>
+        <content type="html"><![CDATA[2021.03.22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제4회 한국팩트체크대상 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/232</id>
         <link href="http://factcheck.snu.ac.kr/documents/232"/>
         <updated>2021-10-07T15:17:18.679Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/232">제4회 한국팩트체크대상 수상작 발표</a>
-  </td>
-  <td>2021.03.15</td>]]></content>
+        <content type="html"><![CDATA[2021.03.15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국언론학회-SNU팩트체크 공동 '제7기 팩트체킹 인턴십' 최종 합격자 공고 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/231</id>
         <link href="http://factcheck.snu.ac.kr/documents/231"/>
         <updated>2021-10-07T15:17:18.679Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/231">한국언론학회-SNU팩트체크 공동 '제7기 팩트체킹 인턴십' 최종 합격자 공고</a>
-  </td>
-  <td>2021.02.08</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 한국팩트체크대상 공고 (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/230</id>
-        <link href="http://factcheck.snu.ac.kr/documents/230"/>
-        <updated>2021-12-17T11:12:57.098Z</updated>
-        <content type="html"><![CDATA[<td>
-    <a href="/documents/230">제4회 한국팩트체크대상 공고</a>
-  </td>
-  <td>2021.02.04</td>]]></content>
+        <content type="html"><![CDATA[2021.02.08]]></content>
     </entry>
 </feed>
