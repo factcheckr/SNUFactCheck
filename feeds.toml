@@ -28,6 +28,16 @@ contentSelector = "div[class^='factcheck_source_rating is']"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[naver_presidential-election]
+title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선"
+url = "https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p[class='factcheck_subject_summary']"
+linkSelector = "p[class='factcheck_subject_summary'] a"
+contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [notice]
 title = "SNU 팩트체크 ─ 공지사항"
 url = "http://factcheck.snu.ac.kr/documents?doc_type=notice"
