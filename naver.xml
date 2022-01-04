@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-01-04T09:06:48.983Z</updated>
+    <updated>2022-01-04T10:07:42.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종자 입장 거부는 식당 주인의 권한이다?]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3642</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3642"/>
+        <updated>2022-01-04T10:06:16.129Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원전 발전단가가 태양광보다 높다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3641</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3632"/>
         <updated>2021-12-31T17:39:09.912Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점에 심야 손님이 없어도 위약금 때문에 24시간 영업한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3640</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3640"/>
-        <updated>2021-12-31T17:39:09.913Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
