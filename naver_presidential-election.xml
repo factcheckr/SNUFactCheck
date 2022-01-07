@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-01-07T07:07:01.320Z</updated>
+    <updated>2022-01-07T08:08:32.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박 전 대통령을 구속한 사람은 (당시 서울중앙지검장이던)윤 후보이지, 문(문재인 대통령)이 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3656</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3656"/>
+        <updated>2022-01-07T08:07:24.834Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능(AI) 특허로 중국이 1등이고, 블록체인 특허도 중국이 제일 많이 가지고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3655</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3655"/>
+        <updated>2022-01-07T08:07:24.835Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF가 적정국가채무비율 85% 권고했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3651</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3651"/>
+        <updated>2022-01-07T08:07:24.835Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최저주거기준에 한참 미달하는 ‘지옥고’에 사는 가구도 200만 가까이 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3652</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3652"/>
+        <updated>2022-01-07T08:07:24.836Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500만 원 내면 법정 토론 나오지 않아도 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3645</id>
@@ -46,33 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3641"/>
         <updated>2022-01-03T09:14:34.376Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 전체 가구의 3.7%가 비정상 거처에서 살고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3629</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3629"/>
-        <updated>2022-01-03T09:14:34.377Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보 본인이 사퇴하지 않아도 후보를 교체할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3631</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3631"/>
-        <updated>2022-01-03T09:14:34.378Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영부인은 대통령 배우자만 지칭하는 용어다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3639</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3639"/>
-        <updated>2022-01-03T09:14:34.379Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문 정부에서 핵발전소 용량이 증가했고, 4기의 핵발전소가 건설되고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3632</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3632"/>
-        <updated>2022-01-03T09:14:34.380Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
