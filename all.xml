@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T05:09:30.808Z</updated>
+    <updated>2022-01-07T06:09:00.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[500만 원 내면 법정 토론 나오지 않아도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[500만 원 내면 법정 토론 나오지 않아도 된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3645</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3645"/>
-        <updated>2022-01-07T05:08:23.225Z</updated>
+        <updated>2022-01-07T05:08:04.121Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
