@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T04:08:55.866Z</updated>
+    <updated>2022-01-11T05:09:03.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보가 공약한 '병사 봉급 월 200만 원'은 하사 봉급보다 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3660</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3660"/>
+        <updated>2022-01-11T05:07:34.798Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금 2055년 고갈되고, 2088년까지 누적적자가 1경 7천조다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3653</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3649"/>
         <updated>2022-01-06T08:07:25.869Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부, 수도권 공급량 역대 최대지만 자가 비중은 감소했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3648</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3648"/>
-        <updated>2022-01-06T08:07:25.873Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[윤석열 후보가 공약한 '병사 봉급 월 200만 원'은 하사 봉급보다 많다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3660</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3660"/>
+        <updated>2022-01-11T05:07:53.535Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국민연금 2055년 고갈되고, 2088년까지 누적적자가 1경 7천조다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3653</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3653"/>
@@ -276,13 +283,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3649"/>
         <updated>2022-01-06T08:07:25.869Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부, 수도권 공급량 역대 최대지만 자가 비중은 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3648</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3648"/>
-        <updated>2022-01-06T08:07:25.873Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년도 하반기 팩트체킹 취재보도 지원사업 공고(1.10 ~ 2.14) (SNU 팩트체크 ─ 공지사항)]]></title>
