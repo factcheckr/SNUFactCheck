@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-01-11T06:08:42.082Z</updated>
+    <updated>2022-01-11T07:06:37.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈모약 보험 적용, 700~800억 원이면 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3662</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3662"/>
+        <updated>2022-01-11T07:05:30.205Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 후보가 수사한 사람 중 5명이 극단적 선택했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3659</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3652"/>
         <updated>2022-01-07T08:07:24.836Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500만 원 내면 법정 토론 나오지 않아도 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3645</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3645"/>
-        <updated>2022-01-07T05:08:23.225Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
