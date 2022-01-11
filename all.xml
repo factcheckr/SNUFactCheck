@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T09:05:25.006Z</updated>
+    <updated>2022-01-11T10:07:02.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[집과 가까운 이마트 이수점에서 방역패스 점검했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[집과 가까운 이마트 이수점에서 방역패스 점검했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3664</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3664"/>
-        <updated>2022-01-11T09:05:12.322Z</updated>
+        <updated>2022-01-11T09:04:54.452Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
