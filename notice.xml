@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
     <title>SNU 팩트체크 ─ 공지사항</title>
-    <updated>2022-01-11T07:06:37.440Z</updated>
+    <updated>2022-01-11T08:09:39.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021년도 하반기 팩트체킹 취재보도 지원사업 공고(1.10 ~ 2.14)]]></title>
+        <title type="html"><![CDATA[2022년도 상반기 팩트체킹 취재보도 지원사업 공고(1.10 ~ 2.14)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/265</id>
         <link href="http://factcheck.snu.ac.kr/documents/265"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
