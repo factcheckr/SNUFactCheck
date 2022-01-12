@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T08:08:44.267Z</updated>
+    <updated>2022-01-12T09:05:02.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대한민국 대통령은 취임식만 있고 퇴임식은 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3668</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3668"/>
+        <updated>2022-01-12T09:04:33.678Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3665</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3653</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3653"/>
         <updated>2022-01-07T10:05:33.910Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박 전 대통령을 구속한 사람은 (당시 서울중앙지검장이던)윤 후보이지, 문(문재인 대통령)이 아니다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3656</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3656"/>
-        <updated>2022-01-07T08:07:07.312Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
