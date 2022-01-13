@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-01-13T10:06:52.029Z</updated>
+    <updated>2022-01-13T11:05:40.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 핵·미사일 도발 대응 방안으로 '선제타격' 발언한 윤석열 국민의힘 대선 후보는 '호전적'이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3667</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3667"/>
+        <updated>2022-01-13T11:04:12.522Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['폭리 논란' 약사, 법적 처벌 못한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3657</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3662"/>
         <updated>2022-01-11T07:05:11.965Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보가 수사한 사람 중 5명이 극단적 선택했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3659</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3659"/>
-        <updated>2022-01-11T06:07:16.125Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
