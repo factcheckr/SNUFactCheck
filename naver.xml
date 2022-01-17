@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-01-17T05:10:36.774Z</updated>
+    <updated>2022-01-17T06:11:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 코로나19 방역 통제는 세계에서 가장 약한 수준이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3661</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3661"/>
+        <updated>2022-01-17T06:10:08.708Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강화·옹진·가평·연천군, ‘수도권’으로 묶여 불합리한 차별 받았다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3676</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3676"/>
         <updated>2022-01-14T09:05:31.823Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주52시간제가 광주 아파트 참사의 근본적인 원인이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3677</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3677"/>
+        <updated>2022-01-17T06:10:08.708Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리나라는 다른 나라보다도 주택가격 인상 폭이 워낙 높다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3668"/>
         <updated>2022-01-12T09:04:33.678Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3666</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3666"/>
-        <updated>2022-01-12T10:05:52.321Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3665</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3665"/>
-        <updated>2022-01-12T07:05:16.744Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
