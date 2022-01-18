@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T07:06:14.734Z</updated>
+    <updated>2022-01-18T08:09:18.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[다른 업종들도 방역패스 정지 소송하면 이긴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -148,14 +148,14 @@
         <title type="html"><![CDATA[다른 업종들도 방역패스 정지 소송하면 이긴다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3685</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3685"/>
-        <updated>2022-01-18T07:04:59.214Z</updated>
+        <updated>2022-01-18T07:04:45.394Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독감 사망자 수가 코로나19 사망자 수보다 많다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3683</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3683"/>
-        <updated>2022-01-18T07:04:59.215Z</updated>
+        <updated>2022-01-18T07:04:45.400Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[법원도 허가한 '김건희 녹취록' 보도 불법이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3684</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3684"/>
-        <updated>2022-01-18T07:05:06.996Z</updated>
+        <updated>2022-01-18T07:04:45.399Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
