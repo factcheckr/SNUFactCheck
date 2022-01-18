@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-01-18T06:08:37.705Z</updated>
+    <updated>2022-01-18T07:06:14.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[법원도 허가한 '김건희 녹취록' 보도 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3684</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3684"/>
+        <updated>2022-01-18T07:05:06.996Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고용안정성이 부족한 비정규직이 정규직보다 더 많은 보수를 받는 게 당연하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3679</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3659"/>
         <updated>2022-01-11T06:07:34.690Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보가 공약한 '병사 봉급 월 200만 원'은 하사 봉급보다 많다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3660</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3660"/>
-        <updated>2022-01-11T05:07:53.535Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
