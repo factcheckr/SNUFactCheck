@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-01-24T12:10:32.312Z</updated>
+    <updated>2022-01-24T13:13:05.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -13,10 +13,17 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 재난지원금 지급비율과 국가부채 비율이 세계에서 가장 낮은 수준이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3707</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3707"/>
-        <updated>2022-01-24T08:09:00.130Z</updated>
+        <title type="html"><![CDATA[아파트명에서 시공사 브랜드 이름을 빼려면 시공사 동의가 필요하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3711</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3711"/>
+        <updated>2022-01-24T13:11:33.674Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실종 동물 잘 찾는 전문 탐정이 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3710</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3710"/>
+        <updated>2022-01-24T13:11:33.675Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3700"/>
         <updated>2022-01-21T08:07:08.378Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열·이재명 양자토론은 불법이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3697</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3697"/>
-        <updated>2022-01-21T08:07:08.379Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
