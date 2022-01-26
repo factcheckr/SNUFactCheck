@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-01-26T10:06:20.808Z</updated>
+    <updated>2022-01-26T11:05:14.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 차단하려면 기존보다 고품질 마스크 써야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3719</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3719"/>
+        <updated>2022-01-26T11:04:00.096Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무증상자가 타인에게 바이러스를 전파하는 것은 사실상 일어나기 어려운 일이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3699</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3596"/>
         <updated>2022-01-23T02:19:35.323Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCR 검사 영문확인서 발급 수수료가 20만원이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3568</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3568"/>
-        <updated>2022-01-23T02:19:35.324Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
