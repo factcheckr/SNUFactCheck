@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T08:10:48.868Z</updated>
+    <updated>2022-01-28T09:07:12.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[우리나라 산업용 전기요금이 다른 나라보다 비싸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -225,14 +225,14 @@
         <title type="html"><![CDATA[대한민국은 전 세계가 인정하는 선진국이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3724</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3724"/>
-        <updated>2022-01-28T08:09:41.049Z</updated>
+        <updated>2022-01-28T08:09:20.128Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인천 선거에서 이기면 대한민국 선거에서 이긴다는 등식이 항상 성립했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3723</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3723"/>
-        <updated>2022-01-28T08:09:41.050Z</updated>
+        <updated>2022-01-28T08:09:20.131Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
