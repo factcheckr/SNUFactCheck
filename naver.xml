@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-01-31T09:06:08.779Z</updated>
+    <updated>2022-01-31T10:06:46.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰관 직무집행법 개정으로 집회·시위 현장에서 경찰관이 물리력 행사해도 책임 면제된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3722</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3722"/>
+        <updated>2022-01-31T10:05:20.960Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 산업용 전기요금이 다른 나라보다 비싸다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3718</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부스터샷 오미크론에 무용하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3720</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
+        <updated>2022-01-31T10:05:20.967Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤석열·이재명 양자토론은 법 위반이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3706</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3706"/>
@@ -48,31 +62,17 @@
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[매장 주방서 흡연한 직원 법적 처벌 가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3717</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3717"/>
+        <updated>2022-01-31T10:05:20.972Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[19대 대통령 선거에서 문재인 대통령 지지율은 40%를 못 넘었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3715</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3715"/>
         <updated>2022-01-25T09:04:50.564Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 욕설 파일을 일부 발췌해 지상파에서 방송하는 것은 선거법 위반이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3714</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3714"/>
-        <updated>2022-01-25T09:04:50.566Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['임대주택 구분 짓기', 금지할 수 있는 법 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3713</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3713"/>
-        <updated>2022-01-25T07:06:02.029Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택 311만 호 공급 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3712</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3712"/>
-        <updated>2022-01-25T07:06:02.029Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>

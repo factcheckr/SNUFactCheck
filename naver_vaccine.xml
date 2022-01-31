@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-01-31T09:06:08.782Z</updated>
+    <updated>2022-01-31T10:06:46.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부스터샷 오미크론에 무용하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3720</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
+        <updated>2022-01-31T10:05:26.856Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3681</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3548"/>
         <updated>2021-11-30T08:17:21.109Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자 CEO, 백신 안 맞았다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3519</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3519"/>
-        <updated>2021-11-19T08:20:13.033Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
