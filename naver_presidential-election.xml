@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-02-04T08:06:39.680Z</updated>
+    <updated>2022-02-04T09:04:58.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최저임금제·주 52시간제 폐지 이야기한 적 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3742</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3742"/>
+        <updated>2022-02-04T09:03:49.864Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명의 태양광 그늘막 공약은 중국 업체들을 위한 것이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3730</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3714</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3714"/>
         <updated>2022-01-25T09:05:10.320Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택 311만 호 공급 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3712</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3712"/>
-        <updated>2022-01-25T07:06:20.895Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
