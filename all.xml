@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-04T13:05:46.251Z</updated>
+    <updated>2022-02-04T14:04:39.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[실제로는 2019년 기준 (미군의) 중산층이 60%가 넘는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[실제로는 2019년 기준 (미군의) 중산층이 60%가 넘는다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3737</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3737"/>
-        <updated>2022-02-04T13:04:38.515Z</updated>
+        <updated>2022-02-04T13:04:18.999Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
