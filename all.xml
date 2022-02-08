@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-08T02:22:39.424Z</updated>
+    <updated>2022-02-08T03:06:25.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[조해주 선관위 상임위원의 사표 반려는 중립성 훼손 소지가 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -12,17 +12,17 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오미크론만의 특정 증상이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3753</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3753"/>
+        <updated>2022-02-07T09:06:46.892Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[브룩스 전 사령관이 사드 추가 배치 필요 없다고 한 적 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3755</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3755"/>
         <updated>2022-02-07T09:06:46.867Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수도권 방어 위해 '사드 추가 배치' 필요하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3760</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3760"/>
-        <updated>2022-02-07T09:06:46.876Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -54,13 +54,6 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오미크론만의 특정 증상이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3753</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3753"/>
-        <updated>2022-02-07T09:06:46.892Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시가 25억 1주택자의 경우 종부세로 연 50만 원 낸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3754</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3754"/>
@@ -73,6 +66,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3752"/>
         <updated>2022-02-07T09:06:46.892Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브룩스 전 주한미군 사령관도 사드 추가 배치가 필요 없다고 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3749</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3749"/>
+        <updated>2022-02-07T09:07:04.750Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세종시 접종률 꼴찌, 공무원들이 백신 안 맞기 때문이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -222,13 +222,6 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수도권 방어 위해 '사드 추가 배치' 필요하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3760</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3760"/>
-        <updated>2022-02-07T09:06:46.876Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[해외에서는 외국인 부동산 투기 억제 조세정책 펼친다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3761</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3761"/>
@@ -283,6 +276,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3750"/>
         <updated>2022-02-07T09:07:04.751Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실제로는 2019년 기준 (미군의) 중산층이 60%가 넘는다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3737</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3737"/>
+        <updated>2022-02-08T03:05:17.932Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제9기 팩트체킹 인턴십 서류전형 합격자 공고(한국언론학회-SNU팩트체크 공동) (SNU 팩트체크 ─ 공지사항)]]></title>
