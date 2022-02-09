@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-02-09T07:08:05.274Z</updated>
+    <updated>2022-02-09T08:09:44.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월급 21년 치 꼬박 모아야 서울에서 집 산다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3765</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3765"/>
+        <updated>2022-02-09T08:08:15.160Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 검찰총장 특수활동비 검증했지만 문제 없었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3764</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3764"/>
+        <updated>2022-02-09T08:08:15.162Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대장동 개발이익 70% 환수했고, 추가로 1,100억 원 더 환수했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3740</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3758"/>
         <updated>2022-02-07T09:06:46.883Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인이 ‘원정 진료’를 받고 건강보험 혜택을 받는 것이 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3757</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3757"/>
-        <updated>2022-02-07T09:06:46.887Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼마 전 통계에 의하면 우리나라 주식 부자 중 80%가 물려 받았다고 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3756</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3756"/>
-        <updated>2022-02-07T09:06:46.891Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
