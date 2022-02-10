@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-02-10T06:08:28.400Z</updated>
+    <updated>2022-02-10T07:06:04.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LTV 80% 완화 공약 유지했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3770</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3770"/>
+        <updated>2022-02-10T07:04:57.665Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국노총의 이재명 지지 선언, 정치 중립 의무를 깼다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3769</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3769"/>
+        <updated>2022-02-10T07:04:57.666Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선후보 지지율 여론조사에서 허경영 제외하면 불공정한 조사다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3741</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3761"/>
         <updated>2022-02-07T09:07:04.743Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2011년까지 450조 규모의 원자력 해체 시장이 예상된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3758</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3758"/>
-        <updated>2022-02-07T09:07:04.744Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인이 ‘원정 진료’를 받고 건강보험 혜택을 받는 것이 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3757</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3757"/>
-        <updated>2022-02-07T09:07:04.744Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
