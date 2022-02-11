@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-02-11T05:05:32.893Z</updated>
+    <updated>2022-02-11T06:11:11.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(연금에 대해 회사원이든 공무원이든) 똑같은 기준을 적용해야 지속 가능한 대한민국이 되고, 후대에 우리가 빚을 넘겨주지 않게 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3745</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3745"/>
+        <updated>2022-02-11T06:09:44.880Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조국 사태 때 검찰청 앞에서 폭력성 시위했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3771</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3771"/>
+        <updated>2022-02-11T06:09:44.880Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LTV 80% 완화 공약 유지했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3770</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3764"/>
         <updated>2022-02-09T08:08:15.162Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 개발이익 70% 환수했고, 추가로 1,100억 원 더 환수했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3740</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3740"/>
-        <updated>2022-02-09T05:04:14.237Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RE100 현실적으로 불가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3763</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3763"/>
-        <updated>2022-02-09T07:06:37.054Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
