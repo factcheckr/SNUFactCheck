@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-02-13T23:06:18.811Z</updated>
+    <updated>2022-02-14T00:23:16.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20대 대선 후보 토론회, 역대 최저 횟수 개최됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3744</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3744"/>
+        <updated>2022-02-14T00:21:50.085Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승만이 멸공 외치다 6·25 남침 빌미 제공했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3772</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3767</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3767"/>
         <updated>2022-02-09T22:04:20.311Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월급 21년 치 꼬박 모아야 서울에서 집 산다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3765</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3765"/>
-        <updated>2022-02-09T08:08:15.160Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
