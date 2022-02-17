@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-02-17T05:05:57.109Z</updated>
+    <updated>2022-02-17T06:09:37.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 자가진단키트에 독성물질이 포함되어 위험하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3786</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3786"/>
+        <updated>2022-02-17T06:08:22.268Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동네 병의원 신속항원검사 5천 원 내면 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3774</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3666"/>
         <updated>2022-02-03T02:18:32.539Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 입장 거부는 식당 주인의 권한이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3642</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3642"/>
-        <updated>2022-02-03T02:18:32.540Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
