@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T08:08:03.826Z</updated>
+    <updated>2022-02-17T09:06:02.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[교차로 우회전 시, 횡단보도 앞 무조건 정지한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3784</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3784"/>
+        <updated>2022-02-17T09:04:35.137Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일에서 홀로코스트 부정하면 처벌받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3463</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3780"/>
         <updated>2022-02-14T09:04:42.106Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50세 이상 기저질환자가 코로나 재택치료 집중 관리군에서 빠졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3778</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3778"/>
-        <updated>2022-02-14T09:04:42.107Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -218,14 +218,14 @@
         <title type="html"><![CDATA[독일에서 홀로코스트 부정하면 처벌받는다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3463</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3463"/>
-        <updated>2022-02-17T08:06:55.956Z</updated>
+        <updated>2022-02-17T08:06:36.922Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3783</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3783"/>
-        <updated>2022-02-17T08:06:55.959Z</updated>
+        <updated>2022-02-17T08:06:36.933Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
