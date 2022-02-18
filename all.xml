@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-18T08:08:58.023Z</updated>
+    <updated>2022-02-18T09:08:06.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[광주 역내 GDP가 전국 꼴찌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3795</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3795"/>
+        <updated>2022-02-18T09:06:40.682Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중대 선거범죄, 공식선거운동 기간에만 처벌한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3797</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3797"/>
+        <updated>2022-02-18T09:06:40.683Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공무원·교원 노조 전임자 임금으로 627억 원 투입된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3796</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3796"/>
+        <updated>2022-02-18T09:06:40.684Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사드 때문에 연 22조 피해 봤다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3790</id>
@@ -52,27 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3784"/>
         <updated>2022-02-17T09:04:35.137Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일에서 홀로코스트 부정하면 처벌받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3463</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3463"/>
-        <updated>2022-02-17T08:06:36.922Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3783</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3783"/>
-        <updated>2022-02-17T08:06:36.933Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 자가진단키트에 독성물질이 포함되어 위험하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3786</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3786"/>
-        <updated>2022-02-17T06:08:07.518Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[광주 역내 GDP가 전국 꼴찌다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3795</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3795"/>
+        <updated>2022-02-18T09:06:58.691Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중대 선거범죄, 공식선거운동 기간에만 처벌한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3797</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3797"/>
+        <updated>2022-02-18T09:06:58.692Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공무원·교원 노조 전임자 임금으로 627억 원 투입된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3796</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3796"/>
+        <updated>2022-02-18T09:06:58.693Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사드 때문에 연 22조 피해 봤다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3790</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3790"/>
@@ -262,27 +283,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3785"/>
         <updated>2022-02-17T06:08:07.526Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개표사무원, 외국인도 할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3782</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3782"/>
-        <updated>2022-02-15T08:07:22.128Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선진국 부채는 GDP 대비 100% 이상이기 때문에 우리나라 부채가 더 늘어도 괜찮다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3777</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3777"/>
-        <updated>2022-02-14T09:04:42.104Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부채 증가가 심각하며 이를 재정 준칙으로 관리할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3780</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3780"/>
-        <updated>2022-02-14T09:04:42.106Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(기간 연장)2022년도 상반기 팩트체킹 취재보도 지원사업 공고(1.10 ~ 2.20) (SNU 팩트체크 ─ 공지사항)]]></title>
