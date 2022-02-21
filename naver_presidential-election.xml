@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-02-21T06:15:28.163Z</updated>
+    <updated>2022-02-21T07:07:04.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일, 영국 등 선진국은 음주 등으로 인한 심신미약 상태에서의 범죄행위에 대한 처벌을 명시하고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3805</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3805"/>
+        <updated>2022-02-21T07:05:56.558Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소득 상위 10%는 연평균 1억 8천만 원 벌고, 하위 50%는 연 천이백만 원 번다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3804</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3804"/>
+        <updated>2022-02-21T07:05:56.559Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주 역내 GDP가 전국 꼴찌다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3795</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3463"/>
         <updated>2022-02-17T08:06:55.956Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3783</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3783"/>
-        <updated>2022-02-17T08:06:55.959Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍남기 기획재정부 장관의 추경 예산안 증액 거부는 월권 행위다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3785</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3785"/>
-        <updated>2022-02-17T06:08:29.112Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
