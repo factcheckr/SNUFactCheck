@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-02-22T07:05:39.005Z</updated>
+    <updated>2022-02-22T08:10:39.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라가 기축통화국이 될 가능성이 매우 크다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3810</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3810"/>
+        <updated>2022-02-22T08:09:12.388Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국이 러시아에 무기를 넘겨준다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3807</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3807"/>
+        <updated>2022-02-22T08:09:12.401Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노동이사제 도입시 공공기관 개혁 타격받는다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3806</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3791"/>
         <updated>2022-02-18T06:11:09.875Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이테이프, 종이 상자와 함께 버려도 재활용된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3788</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3788"/>
-        <updated>2022-02-18T06:11:09.878Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3793</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3793"/>
-        <updated>2022-02-18T06:11:09.878Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
