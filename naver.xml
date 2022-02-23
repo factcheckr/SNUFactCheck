@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-02-23T09:07:24.134Z</updated>
+    <updated>2022-02-23T10:07:59.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 후보가 손실보상 얘기를 한 적이 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3818</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3818"/>
+        <updated>2022-02-23T10:06:30.702Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국이 OECD에서 평균 출퇴근 시간 가장 길다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3814</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3805"/>
         <updated>2022-02-21T07:05:38.447Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소득 상위 10%는 연평균 1억 8천만 원 벌고, 하위 50%는 연 천이백만 원 번다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3804</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3804"/>
-        <updated>2022-02-21T07:05:38.451Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
