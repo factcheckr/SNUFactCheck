@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T10:07:59.508Z</updated>
+    <updated>2022-02-23T11:05:38.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 후보가 손실보상 얘기를 한 적이 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[이재명 후보가 손실보상 얘기를 한 적이 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3818</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3818"/>
-        <updated>2022-02-23T10:06:51.003Z</updated>
+        <updated>2022-02-23T10:06:30.702Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
