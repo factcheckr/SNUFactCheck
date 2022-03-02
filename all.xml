@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T03:08:53.665Z</updated>
+    <updated>2022-03-02T04:12:17.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[민주당 혼자서는 기초의원 2인 선거구제 개선 못 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -285,6 +285,20 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제5회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/280</id>
+        <link href="http://factcheck.snu.ac.kr/documents/280"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제5회 SNU팩트체크 우수상 수상작 후기 1 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/279</id>
+        <link href="http://factcheck.snu.ac.kr/documents/279"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 상반기 「팩트체킹 취재보도 지원 사업」선정 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/278</id>
         <link href="http://factcheck.snu.ac.kr/documents/278"/>
@@ -444,19 +458,5 @@
         <link href="http://factcheck.snu.ac.kr/documents/242"/>
         <updated>2021-08-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021.08.03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제3회 「SNU 팩트체크 우수상」 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/241</id>
-        <link href="http://factcheck.snu.ac.kr/documents/241"/>
-        <updated>2021-07-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021.07.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대통령 선거 팩트체크 권고문 (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/240</id>
-        <link href="http://factcheck.snu.ac.kr/documents/240"/>
-        <updated>2021-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021.07.26]]></content>
     </entry>
 </feed>

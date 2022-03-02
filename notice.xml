@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
     <title>SNU 팩트체크 ─ 공지사항</title>
-    <updated>2022-03-02T03:08:53.587Z</updated>
+    <updated>2022-03-02T04:12:17.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제5회 SNU팩트체크 우수상 수상작 후기 2]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/280</id>
+        <link href="http://factcheck.snu.ac.kr/documents/280"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제5회 SNU팩트체크 우수상 수상작 후기 1]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/279</id>
+        <link href="http://factcheck.snu.ac.kr/documents/279"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 상반기 「팩트체킹 취재보도 지원 사업」선정 발표]]></title>
         <id>http://factcheck.snu.ac.kr/documents/278</id>
@@ -165,19 +179,5 @@
         <link href="http://factcheck.snu.ac.kr/documents/242"/>
         <updated>2021-08-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021.08.03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제3회 「SNU 팩트체크 우수상」 수상작 발표]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/241</id>
-        <link href="http://factcheck.snu.ac.kr/documents/241"/>
-        <updated>2021-07-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021.07.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대통령 선거 팩트체크 권고문]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/240</id>
-        <link href="http://factcheck.snu.ac.kr/documents/240"/>
-        <updated>2021-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021.07.26]]></content>
     </entry>
 </feed>
