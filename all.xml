@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-15T10:09:34.775Z</updated>
+    <updated>2022-03-15T11:04:49.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[청년희망적금 사라진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -285,6 +285,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제5회 한국팩트체크대상 수상작 발표 (SNU 팩트체크 ─ 공지사항)]]></title>
+        <id>http://factcheck.snu.ac.kr/documents/281</id>
+        <link href="http://factcheck.snu.ac.kr/documents/281"/>
+        <updated>2022-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022.03.15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제5회 SNU팩트체크 우수상 수상작 후기 2 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/280</id>
         <link href="http://factcheck.snu.ac.kr/documents/280"/>
@@ -449,13 +456,6 @@
         <title type="html"><![CDATA[제2회 SNU팩트체크 우수상 수상작 후기 (SNU 팩트체크 ─ 공지사항)]]></title>
         <id>http://factcheck.snu.ac.kr/documents/243</id>
         <link href="http://factcheck.snu.ac.kr/documents/243"/>
-        <updated>2021-08-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021.08.03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1회 SNU팩트체크 우수상 수상작 후기 (SNU 팩트체크 ─ 공지사항)]]></title>
-        <id>http://factcheck.snu.ac.kr/documents/242</id>
-        <link href="http://factcheck.snu.ac.kr/documents/242"/>
         <updated>2021-08-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021.08.03]]></content>
     </entry>
