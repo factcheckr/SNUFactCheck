@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-22T03:05:09.456Z</updated>
+    <updated>2022-04-22T04:36:03.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3860</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
+        <updated>2022-04-22T04:34:38.442Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3948</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3976"/>
         <updated>2022-04-21T23:06:59.453Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 기름값이 유독 비싸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3979</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3979"/>
-        <updated>2022-04-21T23:06:59.453Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>

@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-04-22T03:05:09.457Z</updated>
+    <updated>2022-04-22T04:36:03.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
-        <updated>2022-04-21T23:07:05.818Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3860</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
         <updated>2022-04-21T23:07:05.819Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
+        <updated>2022-04-21T23:07:05.818Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다]]></title>
