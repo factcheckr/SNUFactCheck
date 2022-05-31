@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-31T08:12:41.332Z</updated>
+    <updated>2022-05-31T09:10:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[창원 제조업 경기는 'L자 침체' 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4112</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4112"/>
+        <updated>2022-05-31T09:08:54.350Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무효표는 정치에 영향을 주지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4109</id>
@@ -52,13 +59,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4098"/>
         <updated>2022-05-27T06:28:55.013Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1회용 컵 미반환 시 커피 값 인상 효과로 외식 물가가 상승한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4097</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4097"/>
-        <updated>2022-05-26T15:08:37.101Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
