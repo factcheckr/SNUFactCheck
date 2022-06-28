@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-28T08:11:04.016Z</updated>
+    <updated>2022-06-28T09:08:13.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한국이 ‘고아 수출국’ 1위 국가다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4187</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4187"/>
+        <updated>2022-06-28T09:06:52.596Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헌재소장 공관 옆 등산로 폐쇄는 법적 근거를 가진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4185</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4171</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4171"/>
         <updated>2022-06-28T03:02:34.003Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원숭이두창 호흡기로도 전파된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4170</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4170"/>
-        <updated>2022-06-23T10:07:42.886Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
