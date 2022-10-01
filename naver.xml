@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-01T01:02:06.825Z</updated>
+    <updated>2022-10-01T03:53:45.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -18,61 +18,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4418"/>
         <updated>2022-09-29T09:15:51.701Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수리남은 실제로 마약 온상 국가다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4417</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4417"/>
-        <updated>2022-09-29T08:14:41.871Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 자동차보험 갱신 시점에 보험료 할증됐는데, 침수차량이 많아서 그렇다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4416</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4416"/>
-        <updated>2022-09-29T12:15:55.980Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상회담, 이번엔 한국이 일본 찾아갈 차례였다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4414</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4414"/>
-        <updated>2022-09-30T13:45:36.845Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상회담이라면, 국기 게양·취재가 이뤄져야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4413</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4413"/>
-        <updated>2022-09-28T13:42:59.878Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상 만남, ‘회담’ 아니고 ‘간담’이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4412</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4412"/>
-        <updated>2022-09-29T03:36:46.455Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고준위방사성폐기물 처분시설과 사고저항성핵연료 등의 문제가 원전 수출에 미치는 영향은 제한적이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4411</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4411"/>
-        <updated>2022-09-30T07:32:00.024Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령기록관 압수수색 시 변호인 참여 보장 안 해도 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4410</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4410"/>
-        <updated>2022-09-30T07:32:00.025Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4409</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
-        <updated>2022-09-30T07:32:00.027Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
