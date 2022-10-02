@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-02T16:11:26.518Z</updated>
+    <updated>2022-10-02T17:19:15.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -60,5 +60,19 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4411"/>
         <updated>2022-10-02T07:13:39.169Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령기록관 압수수색 시 변호인 참여 보장 안 해도 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4410</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4410"/>
+        <updated>2022-10-02T17:17:54.437Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4409</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
+        <updated>2022-10-02T17:17:54.439Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
