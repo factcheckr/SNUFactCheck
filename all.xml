@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-02T05:04:57.825Z</updated>
+    <updated>2022-10-02T06:19:50.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -38,41 +38,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4414"/>
         <updated>2022-10-01T05:12:57.406Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상회담이라면, 국기 게양·취재가 이뤄져야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4413</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4413"/>
-        <updated>2022-10-01T05:12:57.407Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상 만남, ‘회담’ 아니고 ‘간담’이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4412</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4412"/>
-        <updated>2022-10-01T05:12:57.408Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고준위방사성폐기물 처분시설과 사고저항성핵연료 등의 문제가 원전 수출에 미치는 영향은 제한적이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4411</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4411"/>
-        <updated>2022-10-01T05:12:57.410Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령기록관 압수수색 시 변호인 참여 보장 안 해도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4410</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4410"/>
-        <updated>2022-10-01T05:12:57.413Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4409</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
-        <updated>2022-10-01T05:12:57.415Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
