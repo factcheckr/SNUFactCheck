@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-03T04:42:24.394Z</updated>
+    <updated>2022-10-03T05:36:40.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -72,7 +72,153 @@
         <id>https://m.news.naver.com/factcheck/end?id=4409</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
         <updated>2022-10-02T17:17:54.439Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
+        <content type="html"><![CDATA[<div class="factcheck_subject">
+                <div class="factcheck_subject_info">
+                    <div class="factcheck_subject_info_photo">
+                        
+                            
+                            
+                        
+                        <div class="factcheck_subject_info_photo_inner">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/people/2022/04/28/1069_20220428155209.jpg?type=nf100_100" alt="" onerror="showNoImage(this)" width="50" height="50">
+                        </div>
+                    </div>
+                    <div class="factcheck_subject_info_text">
+                        <strong class="factcheck_subject_info_name">김기현</strong>
+                        <h3 class="factcheck_subject_topic">정치인(공직자)의 발언</h3>
+                    </div>
+                </div>
+                <p class="factcheck_subject_summary"><a href="/factcheck/end?id=4409" onclick="nclk(event,'fac.end','','');">‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다</a></p>
+                <div class="factcheck_subject_info_inner">
+                    <div class="factcheck_subject_info_button _rcount" data-comment="{gno:'event.news.president2017.factcheck.of.4409','type':'optional','exposeType':'exact','addStyle':'prepend','nclk':'fac.comment','params':{'url':'/factcheck/end?id=4409&amp;view=none', 'className':'factcheck_subject_info_comment'}}">
+                        <div class="spiLayer">
+                            <div class="spi_wrap layer_share_on">
+                                <div class="spi">
+                                    <div class="spug">
+                                        
+                                        <a href="#" class="_spi_release spi_ico _btn_postbtn sns_share naver-splugin" data-button="postbtn" onclick="nclk(event,'fac.share','','');return false;" data-style="standard" data-url="https://m.news.naver.com/factcheck/end?id=4409" data-title="‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다" data-blog-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=blog" data-blog-source-type="3" data-blog-blog-id="naver" data-cafe-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=cafe" data-cafe-source-type="3" data-memo-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=memo" data-band-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=band" data-line-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=line" data-kakaotalk-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=kakao" data-kakaostory-display="off" data-facebook-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=facebook" data-twitter-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=twitter" data-friend-display="on" data-friend-url="https://m.news.naver.com/factcheck/end?id=4409&amp;lfrom=friend">보내기</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="factcheck_subject_info_source">
+                        
+                        
+                        
+                            
+                                
+                                
+                                    <a href="https://www.facebook.com/eutface/posts/pfbid02a5j34vt88LL8LFYF1eRinR5uKjoHKahddYvnrvf1mdiVZxfTuwK6K9NA8okVTZKel" class="factcheck_subject_info_source_item" target="_blank" onclick="nclk(event,'fac.source','','');">출처: 국민의힘 김기현 의원 페이스북 발언</a>
+                                
+                            
+                            
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
+            
+
+
+
+<div class="factcheck_result">
+    <h4 class="factcheck_result_title">팩트체크 결과</h4>
+    
+        
+        
+            <a href="#" class="factcheck_result_toggle _factcheck_result_toggle">상세내용 닫기</a>
+        
+    
+</div>
+
+    <div class="factcheck_source">
+        <div class="factcheck_source_content">
+            <div class="factcheck_source_bundle">
+                
+                    
+                    
+                        <div class="factcheck_source_rating is_mostlytrue">대체로 사실</div>
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="factcheck_source_title">
+                    <a href="http://www.edaily.co.kr/" class="factcheck_source_press" target="_blank" onclick="nclk(event,'fac.edaily','','');">
+                        
+                            
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/press/2022/06/14/27_20220614030001.jpg?type=h30" alt="이데일리" title="" class="" onerror="this.parentNode.innerHTML='<span class=\'factcheck_source_press_text\'>이데일리</span>'" height="15">
+                        
+                    </a>
+                    
+                    
+                    
+                        
+                        
+                            <div class="factcheck_source_date"><span>입력 09.26. 오전 9:04</span><span>수정 09.26. 오후 2:43</span></div>
+                        
+                    
+                </div>
+                <div class="factcheck_source_text is_folded">
+                    <div class="factcheck_source_text_inner _article_body">
+                        
+                            <p><strong>[요약]</strong></p><ul><li>국회 계류 중인 모든 '노란봉투법(노조법)' 의원안에 ‘폭력 및 파괴행위(불법)로 인해 발생한 손해가 있더라도, 그것이 노조의 의사결정(계획, 결의)에 따른 경우 근로자 개인에게 손해배상을 제기할 수 없다’는 내용이 담겼다.</li><li>강민정, 양경숙 의원은 원문의 '주요 내용' 란에 ‘폭력 및 파괴 행위로 사용자에게 손해를 입혔더라도 그 행위가 노조의 결정이라면 개인에 대해 손해배상 및 가압류 청구를 할 수 없다’고 명시했다.</li><li>이는 현행 노조법 제3조 제1항의 단서로 작용해 근로자 개인에게 불법 행위에 대한 책임을 물을 수 없는 근거가 된다.</li></ul>
+                            <p><br></p>
+                        
+                        <p><strong>[검증대상]</strong></p><p>"‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다"는 김기현 국민의힘 의원의 발언</p><p><strong>[검증방법]</strong></p><p>노동조합 및 노동관계조정법 일부개정법률안 의안 원문 8건</p><p>영국 노동조합 및 노동 관계(통합)법, 미국 연방노동관계법, 프랑스 노동법전</p><p>이승길, &lt;불법쟁의행의와 손배배상·가압류에 관한 연구(2004)&gt;</p><p>이상희, &lt;위법쟁의행위와 손해배상책임에 관한 해석 및 입법의 한계(2006)&gt;</p><p>한국노동연구원, 국제노동브리프 2014년 4월호</p><p><strong>[검증내용]</strong></p><p>잇따른 파업을 계기로 9월 정기 국회에선 여야가 이른바 ‘노란봉투법(노동조합 및 노동관계조정법 개정안)’ 입법 가능성을 놓고 각축을 벌일 전망이다. 노란봉투법은 노동조합의 쟁의로 손해를 입은 기업이 노동자에게 직접적인 손해배상 청구와 가압류 집행을 못 하도록 제한하는 것을 골자로 한다. 2014년 쌍용차 파업 당시 노조원에게 47억 원의 손배 판결이 내려지자 한 시민이 이를 돕기 위해 노란 봉투에 성금을 전달한 것이 시초다.</p><p><strong>“불법에 면책 준다?”…발의원문 8건 분석해보니</strong></p><p>16일 더불어민주당 노웅래 의원이 노조법 개정안을 대표 발의하면서 현재 국회 환경노동위원회에 계류된 노란봉투법은 총 8건으로 늘었다. 민주당은 지난 2020년 강병원 의원을 시작으로 임종성, 이수진, 강민정, 양경숙, 노웅래 의원까지 6건, 정의당에선 강은미 의원, 이은주 비대위원장이 2건을 대표 발의했다.</p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/09/26/15816_0_20220926144801.jpg?type=w312" onerror="showNoImage(this)"></span>국회 의안정보시스템에 등록된 해당 의안원문 8건을 내용별로 분석했다. 핵심은 손해배상 책임이 면제되는 합법 파업의 범위 확대와 노조 활동에 따른 손해배상 및 가압류 청구의 제한, 손해배상액의 제한이다.</p><p>개별적으로는 손해배상액 경감 청구(강병원), 프리랜서와 특수형태근로자 등을 근로자 개념에 포함(강은미), 노동쟁의 범위 확대(임종성), 폭력이나 파괴행위가 수반되지 않은 쟁의일 때 형사책임 면제(이수진), 사용자성 인정 범위 확대(강민정), 대통령령에 입각한 손해배상액 상한 기준 신설(양경숙)에서 차이가 있었다. 지난 14일 발의된 이은주 의원안은 근로자, 사용자, 노동쟁의의 정의를 수정하는 한편 손해배상 청구 제한을 확대하는 등 다른 의원안을 아우르는 포괄적 내용을 담고 있다. ‘노란봉투법’의 입법 취지처럼 파업 상황 때 기업보다는 근로자에게 벌어질 수 있는 유불리를 개선하는 조항이 대다수였다.</p><p>그렇다면 개정안은 불법 행위를 어떻게 해석하고 있을까? 8건의 발의안에서 확인한 ‘노동조합 및 노동관계조정법 일부개정법률안 제3조 제1, 2항’의 내용은 모두 유사했다. ‘제1항’에서는 ‘폭력이나 파괴행위로 인한 것이 아니라면, 노조의 활동으로 손해를 입어도 근로자에게 손해배상을 청구할 수 없다’고 말한다. 그러나 각 의원이 신설한 ‘제2항’에는 <strong>‘폭력 및 파괴행위(불법)로 인해 발생한 손해가 있더라도, 그것이 노조의 의사결정(계획, 결의)에 따른 경우 근로자 개인에게 손해배상을 제기할 수 없다’</strong>는 내용이 담겼다.</p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/09/26/15816_1_20220926144801.jpg?type=w312" onerror="showNoImage(this)"></span>또한 제1항의 조건부인 제2항을 들어 개인에 대한 손배소 제한을 소극적으로 제시한 타 의원들과 달리 8월 31일과 9월 1일 발의한 강민정, 양경숙 의원은 원문의 ‘주요 내용’란부터 ‘폭력 및 파괴 행위(불법)로 사용자에게 손해를 입혔더라도 그 행위가 노조의 결정이라면 개인에 대해 손해배상 및 가압류 청구를 할 수 없다’고 직접적으로 서술했다.</p><p>한편 현행 ‘노동조합 및 노동관계조정법 제3조’는 ‘사용자는 이 법에 의한 단체교섭 또는 쟁의행위로 인해 손해를 입은 경우에 노동조합 또는 근로자에 대하여 그 배상을 청구할 수 없다’고 규정하고 있다. 이어 ‘형법 20조’에선 합법적인 상태에서 일어난 쟁의만을 정상 행위로 인정한다. 다시 말해 합법적인 파업에서 일어난 손해라면, 기업은 노조나 구성원에게 피해 책임을 물을 수 없다.</p><p>이처럼 이미 현행법이 일반 쟁의에서 일어난 손해에 대해 면책권을 주고 있지만, 개정안을 적용한다면 기업은 노조의 의사결정(계획, 결의)에 따른 손해를 노조에 청구하거나, 오롯이 감수해야 한다. 만약 대우조선해양 사태처럼 하청 노조의 독(dock) 점거 같은 불법 파업이 일어나도 기업(원청)은 개인에게 ‘노조의 통제를 벗어난 일탈 행위’에서 비롯된 손해만 청구할 수 있다.</p><p><strong>해외도 노조 파업에 대해 손해배상을 제기할 수 없다?</strong></p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/09/26/15816_2_20220926144801.jpg?type=w312" onerror="showNoImage(this)"></span>먼저 영국은 노조 규모별로 불법 파업에 따른 손해배상액의 한도를 정하고 있다. 이는 노란봉투법의 ‘노조 존립을 위협하지 않는 손해배상액의 청구’와 유사하다. 영국의 ‘노동조합 및 노사관계통합법(Trade Union and Labour Relations(Consolidation) Act 1992) 제22조’에 따르면 10만 명 이상의 노조일 경우 불법 행위에 대해 최대 100만 파운드(약 16억)까지만 손해배상 책임이 있다. 이는 6월 영국 철도해운노조(RMT)의 총파업을 겪은 영국 정부가 지난 7월 21일 법 개정을 통해 기존 상한액(25만 파운드)의 4배를 인상한 결과다. 단 노조나 개인의 과실 또는 의무 위반으로 상해를 입히는 등의 상황에서는 해당 규정을 적용하지 않는다.</p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/09/26/15816_3_20220926144801.jpg?type=w312" onerror="showNoImage(this)"></span>미국은 노조의 불법 행위에 한해 손배소 청구가 자유롭게 이뤄진다. 미국은 연방노동관계법(National Labor Relations Act) 제303조에서 ‘불법 행위로 사업 또는 재산에 피해를 입은 사람은 지방 법원에 소송을 제기할 수 있다’고 규정돼 있다. 또 영국과 달리 손해배상액의 제한은 따로 없다.</p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/09/26/15816_4_20220926144802.jpg?type=w312" onerror="showNoImage(this)"></span>프랑스는 헌법에서 ‘파업권(droit de grève)’을 명시해 노조나 근로자의 파업을 비교적 폭넓게 보장하고 있다. 프랑스 노동법전과 한국노동연구원이 2014년 4월 발행한 ‘국제노동브리프’에 따르면 민간부문의 파업권을 정당하게 행사하는 경우에 징계책임, 민사 및 형사 책임이 배제되는 반면, 합법적인 파업 중에 일어난 위법 행위, 파업권의 남용에 해당하는 행위, 위법집단행동 등에 대해서는 노조 및 개인의 손해배상책임이 유효하다. 또한 위법집단행동에 의한 손해가 결정된다면 행위자가 손해 전체를 배상해야 하며, 파업근로자가 파업 중에 중대한 귀책행위를 행한 경우에는 이는 정당한 해고사유로 판단된다. 다른 나라에 비해 파업의 개시나 절차에 제한이 없고 정당한 파업의 인정 범위가 크긴 하나 마찬가지로 불법 행위에 대한 손배소 청구는 가능한 것이다.</p><p>특히 프랑스에서는 ‘노란봉투법’과 유사한 법 개정 사례가 존재한다. 지난 1982년 10월 ‘근로자대표제도의 발전에 관한 법률 제8조’에서 ‘노조의 파업으로 발생한 손해의 배상에 관해서는 근로자 및 노동조합에 대해 어떠한 소송도 제기할 수 없다. 다만, 형법상 범죄로 인한 손해와 파업권 및 단결권 행사와 명백히 관련될 수 없는 행위로 인한 손해배상소송은 제외한다’고 규정해 사용자의 손배소를 억제하려는 시도가 있었다. 그러나 당국 헌법재판소(Conseil constitutionnel)는 <strong>“귀책행위로 인해 발생한 손해를 모두 면책하는 제도는 다른 어떤 분야에서도 허용하지 않고 있다”</strong>고 판단해 해당 조항에 위헌결정을 내렸다. 헌재가 타인에게 손해를 끼치는 위법 행위에 한해서 무관용 원칙을 적용한 것이다. 판결 이후 불법 행위에 손배소를 제한하는 내용의 입법 시도는 없었다.</p><p>결과적으로 영국이 불법 파업에 대한 손배액의 상한을 두고 있긴 하지만, 미국과 프랑스를 포함한 세 나라 모두 불법 행위에 대한 손해배상 청구는 허용하고 있다.</p><p><strong>[검증결과]</strong></p><p>국회 의안정보시스템에 등록된 노란봉투법 발의 원문을 분석한 결과, 8명의 의원이 모두 ‘노동조합 및 노동관계조정법 일부개정법률안(노조법) 제3조 제2항’를 신설해 ‘폭력 및 파괴행위(불법)로 인해 발생한 손해가 있더라도, 그것이 노조의 의사결정(계획, 결의)에 따른 경우 근로자 개인에게 손해배상을 제기할 수 없다’고 규정했다. 이는 현행법인 노조법 제3조 제1항의 단서로 작용해 근로자 개인에게 불법 행위에 대한 책임을 물을 수 없는 근거가 된다.</p><p>따라서 김기현 의원의 해당 발언을 ‘대체로 사실’로 판정한다.</p>
+                    </div>
+                    <a href="#" class="factcheck_source_text_more is_folded _press_message_more" onclick="nclk(event,'fac.edaily','','');">더보기</a>
+                    
+                    <script>
+                    (function() {
+                        document.querySelectorAll('._article_body img')
+                            .forEach(function(img) {
+                                
+                                img.setAttribute('onerror', 'showNoImage(this)');
+                            })
+                    })();
+                    </script>
+                </div>
+            </div>
+            <div id="relation0"></div>
+            
+                <div class="factcheck_source_news">
+                    <strong class="factcheck_source_news_title">검증기사 보러가기</strong>
+                    <ul class="factcheck_source_news_list">
+                        
+                            <li class="factcheck_source_news_item">
+                                <a href="http://snaptime.edaily.co.kr/?p=78878,?%B8%EB%8F%99%EC%A1%B0%ED%95%A9,?%8C%EC%97%85,?%98%EC%9D%B4?%B8%EC%A7%84%EB%A1?%EA%B9€%EA%B8%B0%ED%98%84,??" target="_blank" onclick="nclk(event,'fac.edaily','','');">
+                                    ‘노란봉투법’이 ‘불법 파업’에 대한 손해배상 책임을 없앤다? [팩트체크] | 이데일리
+                                </a>
+                            </li>
+                        
+                            <li class="factcheck_source_news_item">
+                                <a href="https://n.news.naver.com/mnews/article/018/0005324085?sid=102" target="_blank" onclick="nclk(event,'fac.edaily','','');">
+                                    ‘노란봉투법’이 ‘불법 파업’에 대한 손해배상 책임을 없앤다? [팩트체크] | 네이버뉴스
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+            
+                <div class="factcheck_source_links">
+                    
+                        
+                            <div class="factcheck_source_link"><a href="/factcheck/end?id=4409#relation0" class="factcheck_source_data" onclick="nclk(event,'fac.edaily','','');">14개의 근거자료가 있습니다</a></div>
+                        
+                        
+                    
+                </div>
+            
+        </div>
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
