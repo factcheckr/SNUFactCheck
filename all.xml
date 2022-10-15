@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-15T21:08:29.474Z</updated>
+    <updated>2022-10-15T22:09:04.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[만화진흥원이 중고생만화공모전을 정치 오염 공모전으로 변색시켰다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -65,6 +65,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=4442</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4442"/>
         <updated>2022-10-14T20:09:35.492Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기요금 올리면 무역적자 개선된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4441</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4441"/>
+        <updated>2022-10-15T22:07:46.178Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
