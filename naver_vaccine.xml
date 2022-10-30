@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-10-30T10:09:17.978Z</updated>
+    <updated>2022-10-30T11:05:57.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -66,13 +66,154 @@
         <id>https://m.news.naver.com/factcheck/end?id=3646</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
         <updated>2022-10-27T13:38:50.799Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-10-27T13:38:50.800Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+        <content type="html"><![CDATA[<div class="factcheck_subject">
+                <div class="factcheck_subject_info">
+                    <div class="factcheck_subject_info_photo">
+                        
+                            
+                            
+                        
+                        <div class="factcheck_subject_info_photo_inner">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/people/2022/05/12/1552_20220512171451.jpg?type=nf100_100" alt="" onerror="showNoImage(this)" width="50" height="50">
+                        </div>
+                    </div>
+                    <div class="factcheck_subject_info_text">
+                        <strong class="factcheck_subject_info_name">테워드로스 아드하놈 거브러여수스</strong>
+                        <h3 class="factcheck_subject_topic">기타</h3>
+                    </div>
+                </div>
+                <p class="factcheck_subject_summary"><a href="/factcheck/end?id=3646" onclick="nclk(event,'fac.end','','');">부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다</a></p>
+                <div class="factcheck_subject_info_inner">
+                    <div class="factcheck_subject_info_button _rcount" data-comment="{gno:'event.news.president2017.factcheck.of.3646','type':'optional','exposeType':'exact','addStyle':'prepend','nclk':'fac.comment','params':{'url':'/factcheck/end?id=3646&amp;view=none', 'className':'factcheck_subject_info_comment'}}">
+                        <div class="spiLayer">
+                            <div class="spi_wrap layer_share_on">
+                                <div class="spi">
+                                    <div class="spug">
+                                        
+                                        <a href="#" class="_spi_release spi_ico _btn_postbtn sns_share naver-splugin" data-button="postbtn" onclick="nclk(event,'fac.share','','');return false;" data-style="standard" data-url="https://m.news.naver.com/factcheck/end?id=3646" data-title="부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다" data-blog-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=blog" data-blog-source-type="3" data-blog-blog-id="naver" data-cafe-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=cafe" data-cafe-source-type="3" data-memo-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=memo" data-band-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=band" data-line-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=line" data-kakaotalk-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=kakao" data-kakaostory-display="off" data-facebook-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=facebook" data-twitter-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=twitter" data-friend-display="on" data-friend-url="https://m.news.naver.com/factcheck/end?id=3646&amp;lfrom=friend">보내기</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="factcheck_subject_info_source">
+                        
+                        
+                        
+                            
+                                
+                                
+                                    <a href="https://www.youtube.com/watch?v=5Sj1Pw2-exk" class="factcheck_subject_info_source_item" target="_blank" onclick="nclk(event,'fac.source','','');">출처: 현지시간 2021년 12월 22일 언론 브리핑</a>
+                                
+                            
+                            
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
+            
+
+
+
+<div class="factcheck_result">
+    <h4 class="factcheck_result_title">팩트체크 결과</h4>
+    
+        
+        
+            <a href="#" class="factcheck_result_toggle _factcheck_result_toggle">상세내용 닫기</a>
+        
+    
+</div>
+
+    <div class="factcheck_source">
+        <div class="factcheck_source_content">
+            <div class="factcheck_source_bundle">
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="factcheck_source_rating is_reserve">판단유보</div>
+                    
+                
+                <div class="factcheck_source_title">
+                    <a href="http://news.sbs.co.kr/news/newsMain.do" class="factcheck_source_press" target="_blank" onclick="nclk(event,'fac.sbs','','');">
+                        
+                            
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/press/2018/01/25/20_20180125152752.jpg?type=h30" alt="SBS" title="" class="" onerror="this.parentNode.innerHTML='<span class=\'factcheck_source_press_text\'>SBS</span>'" height="15">
+                        
+                    </a>
+                    
+                    
+                    
+                        
+                        
+                            <div class="factcheck_source_date"><span>입력 01.06. 오전 11:02</span><span>수정 01.06. 오후 2:58</span></div>
+                        
+                    
+                </div>
+                <div class="factcheck_source_text is_folded">
+                    <div class="factcheck_source_text_inner _article_body">
+                        
+                            <p><strong>[요약]</strong></p><ul><li>테워드로스 WHO사무총장이 "부자나라 부스터샷 접종이 오미크론 확산에 악영향"이라고 주장</li><li>아워월드인데이터 및 관련 연구를 참고해보니, 시간 차를 두고 저소득국가와 고소득국가 모두 바이러스 확산세가 뚜렷해져</li><li>다만 이는 경험에 의한 자료일 뿐, 일반화 하기엔 어려워</li></ul>
+                            <p><br></p>
+                        
+                        <p>[검증대상]</p><p>부자 나라 부스터샷이 오미크론 확산에 악영향이라는 WHO사무총장의 발언</p><p><br></p><p>[검증방법]</p><p>아워월드인데이터 사이트 참고.</p><p>캐롤린 와그너 등 &lt;백신 민족주의와 코로나 바이러스 역학과 통제&gt; 참고.</p><p><br></p><p>[검증내용]</p><p>일단 실태 조사부터 했습니다.<br><br>오미크론 변이가 남아프리카공화국에서 외부로 확산하기 시작할 때 즈음인 11월 말, 그리고 이미 외부로 확산한 12월 말 기준으로, 전 세계 부스터샷 접종 현황과 오미크론 확산 현황을 비교했습니다. 영국 옥스퍼드대학의 '아워월드인데이터'(our world in data)를 활용했습니다. 아워월드인데이터는 미국 존스홉킨스대학의 코로나19 데이터를 분석, 제공하고 있습니다. <br><br>색깔이 진할수록 부스터샷 접종률도 높고, 오미크론 확진자도 많은 것을 뜻합니다. 부스터샷 접종률은 '총 백신 부스터 투여량을 해당 국가의 총 인구로 나눈 값'이며, 오미크론 확진율은 '지난 2주 동안 분석된 오미크론 확진 감염 비율의 평균값'입니다. </p><p><br></p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/01/06/12622_0_20220106110301.jpg?type=w312" onerror="showNoImage(this)"></span></p><p><br></p><p>위 지도를 보시면, 11월 말 미국과 유럽, 동북아와 같이 이른바 '부자 나라'들의 부스터샷 접종률이 높았습니다. 그 사이 오미크론은 남아공과 보츠나와 등 아프리카 남부에서 우세종이 됐습니다.<br><br>이번에는 12월 말 지도를 보시죠. 선진국을 중심으로 부스터샷 접종은 더욱 활기를 띄었는데, 오미크론 변이 누적 확진자 역시 유럽에서도 우세종이 됐습니다. 최근 한 달 새, 선진국들 역시 오미크론 변이 확진 사례가 많아졌다는 것을 시각적으로 알 수 있습니다. </p><p><br></p><p>조금 더 구체적으로 살펴봤습니다. 올해 1월 1일 아워월드인데이터 기준, 전체 확진자 가운데 오미크론 변이 비율이 30%를 넘은 27개 국가의 추이를 살펴봤습니다. 1인당 국민총소득(GDP) 1만 달러 이하, 1~5만 달러, 5만 달러 이상 국가로 나눠 분석했습니다. 1인당 GDP는 세계은행(WB) 자료를 활용했습니다. <br><br>1만 달러 이하는 남아프리카공화국과 보츠나와, 잠비아, 케냐 등 12개 국가, 1~5만 달러는 영국과 이스라엘, 캐나다 등 8개 국가, 5만 달러 이상은 미국과 스위스, 스웨덴 등 7개 국가입니다.</p><p><br></p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/01/06/12622_1_20220106110301.jpg?type=w312" onerror="showNoImage(this)"></span></p><p><br></p><p>지난해 11월, 1만 달러 이하 국가들의 오미크론 변이 확진율이 치솟기 시작하고, 그리고 한 달 뒤 소득이 높은 국가들이 그 바통을 이어받았다는 것을 알 수 있습니다. 11월 말 세계 평균 부스터샷 접종율은 6.58%인데, 당시 1인당 GDP 5만 달러 이상 국가들의 접종률을 보면, 덴마크 48.3%, 스위스 23.98%, 스웨덴 23.4%였습니다.<br><br>실제 부자 나라들의 높은 백신 접종률이 오히려 코로나 확진율을 높인다는 연구 결과가 최근 잇따라 발표되고 있습니다. 캐나다 맥길 대학교의 캐롤린 와그너 생명공학 교수 등이 쓴 &lt;백신 민족주의와 코로나 바이러스 역학과 통제&gt;(Vaccine nationalism and the dynamics and control of SARS-CoV-2)이 대표적입니다. &lt;사이언스&gt;(Science)지에 실렸습니다. </p><p><br></p><p><span class="end_photo_org"><img src="https://mimgnews.pstatic.net/image/upload/factcheck/photo/2022/01/06/12622_2_20220106110301.jpg?type=w312" onerror="showNoImage(this)"></span></p><p><br></p><p>연구진은 백신 공급이 많은 지역과 적은 지역을 정하고, 감염률이 어떻게 달라지는지 실험했는데, 특정한 지역에서 백신 공급량이 많으면 공급량이 낮은 지역의 감염률이 높아진다고 썼습니다. 시간이 흐르면 양쪽 지역 모두 전염률이 높아지는 결과로 이어졌고, 백신 공급이 많은 지역은 다시 확진자 관리 및 추적에 많은 비용을 쓰는 악순환이 반복된다는 겁니다. <br><br>논문은 '백신 공유'가 잘 사는 나라들에게도 이익이 된다며, 잘 사는 나라들이 부스터샷보다는 백신을 수출하는 걸 우선 순위로 삼아야 한다는 주장으로 끝마칩니다. </p><p><br></p>
+<p><br></p><p id="isPasted"><strong>공정한 배분이 비선형적인 이익을 가져오고 적은 확진자 수를 유지하기에 백신이 충분한 환경에서의 감시 비용(예: 국경 검사, 유전자 감시)을 완화하기 때문에 백신 공유는 고수익 전략일 것이다. …… 전반적으로, 우리의 연구는 신속하고 공정한 백신 분배의 중요성과 백신 공급률이 높은 지역에서 가능하게 된 것처럼 공급률이 낮은 지역으로 백신을 수출해야 할 필요성을 강조한다.</strong></p><p><strong>Dose sharing is likely a high-return strategy because equitable allocation brings nonlinear benefits and also alleviates costs of surveillance (e.g., border testing, genomic surveillance) in settings where doses are sufficient to maintain cases at low numbers. …… Overall, our work underlines the importance of rapid, equitable vaccine deployment and the necessity to export vaccines to regions with low availability in parallel to their becoming available in regions with high access.</strong></p><p><strong>- 캐롤린 와그너 등 &lt;백신 민족주의와 코로나 바이러스 역학과 통제&gt;(Vaccine nationalism and the dynamics and control of SARS-CoV-2), 사이언스 373권, 1488호, 2021년 9월</strong></p><br>
+<p><br></p><p>당시 논문은 델타 바이러스의 흐름을 기준으로 썼지만, 오미크론 변이도 크게 다르지는 않을 겁니다.<br><br>물론 위 논문도 경험적 분석에 가깝습니다. 인과 관계를 명확히 규명하고 있지는 않습니다. 사실 여부를 검증해야 하는 사실은팀 입장에서, 논문 몇 개를 그 근거로 삼기에 부족함이 있습니다. 이런 면에서 사실은팀은 사실 여부 판단을 유보하겠습니다.<br><br>다만, 시선을 더 넓여야 함을 깨닫습니다. 우리가 살아가는 세계는 의도했든 의도하지 않았든 국적을 넘어 서로가 얽히고설켜 있으며, 달리 말하면, 우리의 노력만으로 팬더믹을 극복하기는 어렵다는 걸 뜻합니다. 코로나 이후 타자에 대한 혐오가 빠르게 번지고, '백신 민족주의'가 거세지는 지금, 결국, 그 손해는 모두가 떠안을 수밖에 없다는, 매우 '실리적인' 진단에 가깝습니다.<br><br>어쩌면 뻔한 이야기일 수 있습니다. 불평등은 늘 공동체 감정선을 날카롭게 만들었으며 모두를 옥죄는 독이 됐다는 건 역사가 증명하고 있습니다. 자연히 '분배' 문제에 대한 고민은 민주주의 진보의 노정과도 같습니다. 앞선 연구들이 복잡한 수식과 그래프를 통해 지난하게 설명하고 있을 뿐, 결국은 우리가 아는 '상식'을 말하고 있다고 믿습니다.<br><br></p><p>[검증결과]</p><p>아워월드인데이터 및 관련 연구를 참고해보니, 선진국을 중심으로 부스터샷 접종이 활발할 때, 저소득 국가에선 오미크론이 우세종이 됐습니다. 그러나 시간이 지나고 보니 저소득국가와 고소득국가 모두 바이러스 확산세가 뚜렷해졌습니다. 현재 존재하는 이러한 데이터와 논문만으로는 WHO사무총장의 주장을 일반화할 수 없다는 결론에 이르러, 판단유보 결정을 내립니다.</p>
+                    </div>
+                    <a href="#" class="factcheck_source_text_more is_folded _press_message_more" onclick="nclk(event,'fac.sbs','','');">더보기</a>
+                    
+                    <script>
+                    (function() {
+                        document.querySelectorAll('._article_body img')
+                            .forEach(function(img) {
+                                
+                                img.setAttribute('onerror', 'showNoImage(this)');
+                            })
+                    })();
+                    </script>
+                </div>
+            </div>
+            <div id="relation0"></div>
+            
+                <div class="factcheck_source_news">
+                    <strong class="factcheck_source_news_title">검증기사 보러가기</strong>
+                    <ul class="factcheck_source_news_list">
+                        
+                            <li class="factcheck_source_news_item">
+                                <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1006593884&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT" target="_blank" onclick="nclk(event,'fac.sbs','','');">
+                                    [사실은] 오미크론 확산세, 부스터샷의 부메랑?
+                                </a>
+                            </li>
+                        
+                            <li class="factcheck_source_news_item">
+                                <a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid=055&amp;aid=0000944483" target="_blank" onclick="nclk(event,'fac.sbs','','');">
+                                    [사실은] 오미크론 확산세, 부스터샷의 부메랑?
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+            
+                <div class="factcheck_source_links">
+                    
+                        
+                            <div class="factcheck_source_link"><a href="/factcheck/end?id=3646#relation0" class="factcheck_source_data" onclick="nclk(event,'fac.sbs','','');">2개의 근거자료가 있습니다</a></div>
+                        
+                        
+                    
+                </div>
+            
+        </div>
+    </div>]]></content>
     </entry>
 </feed>
