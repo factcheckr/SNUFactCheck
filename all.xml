@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T04:30:21.879Z</updated>
+    <updated>2022-11-03T05:17:47.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[경찰은 이태원 참사 당일 인파가 몰릴 것을 미리 예상했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -101,6 +101,48 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3767"/>
         <updated>2022-10-27T13:38:50.789Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종시 접종률 꼴찌, 공무원들이 백신 안 맞기 때문이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3726</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3726"/>
+        <updated>2022-11-03T05:16:29.780Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부스터샷 오미크론에 무용하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3720</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
+        <updated>2022-11-03T05:16:29.780Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
+        <updated>2022-11-03T05:16:29.788Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
+        <updated>2022-11-03T05:16:29.788Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
+        <updated>2022-11-03T05:16:29.791Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
+        <updated>2022-11-03T05:16:29.799Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
@@ -220,5 +262,26 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
         <updated>2022-10-30T11:04:55.259Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
+        <updated>2022-11-03T05:16:43.937Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6·1 지방선거 때 '검수완박' 국민투표 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4012</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
+        <updated>2022-11-03T05:16:43.937Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
+        <updated>2022-11-03T05:16:43.938Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
