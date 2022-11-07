@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://factcheck.snu.ac.kr/documents?doc_type=notice</id>
+    <title>SNU 팩트체크 ─ 공지사항</title>
+    <updated>2022-11-07T23:08:57.610Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://factcheck.snu.ac.kr/favicon.ico</icon>
+</feed>
