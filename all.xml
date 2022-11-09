@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-09T05:24:31.289Z</updated>
+    <updated>2022-11-09T06:12:57.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이태원 참사 당일 서울 시내 모든 경찰 기동대가 촛불집회에 질서 투입됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -136,13 +136,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
         <updated>2022-11-09T00:39:24.035Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-11-09T00:39:24.038Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
