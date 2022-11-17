@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-17T07:08:38.342Z</updated>
+    <updated>2022-11-17T08:11:21.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 때 원전을 안 하면서 석탄발전을 더 많이 했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4531</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4531"/>
+        <updated>2022-11-17T08:09:59.984Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년도 공공임대주택 예산은 삭감 아닌 정상화다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4530</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4519"/>
         <updated>2022-11-15T16:09:41.075Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 당일 서울 시내 모든 경찰 기동대가 촛불집회에 질서 투입됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4517</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4517"/>
-        <updated>2022-11-15T16:09:41.075Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
