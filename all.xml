@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/SNUFactCheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-06T09:07:54.591Z</updated>
+    <updated>2023-01-06T10:08:34.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[축구협회가 선수들보다 월드컵 배당금 더 가져간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -148,7 +148,7 @@
         <title type="html"><![CDATA[코로나 XBB 변이가 복통·설사 유발한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4621</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4621"/>
-        <updated>2023-01-06T09:06:45.112Z</updated>
+        <updated>2023-01-06T09:06:30.651Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
