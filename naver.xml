@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-01T00:40:32.330Z</updated>
+    <updated>2023-02-01T02:25:49.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민식이법 시행 이후 스쿨존 교통사고가 줄었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4680</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4680"/>
+        <updated>2023-02-01T02:24:25.911Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스쿨존에서 어린이를 사망케 하면 무기 또는 3년 이상 징역이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4679</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4679"/>
+        <updated>2023-02-01T02:24:25.914Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 집권 후반기 가스요금 인상 요인이 있었음에도 요금을 동결했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4675</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4675"/>
         <updated>2023-01-30T07:07:03.210Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방공공의료원 구인난은 의사 처우가 안 좋기 때문이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4674</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4674"/>
+        <updated>2023-02-01T02:24:25.917Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남FC 의혹, 이미 수년간 수사 끝에 무혐의로 처분됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4673</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4673"/>
+        <updated>2023-02-01T02:24:25.918Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다]]></title>
@@ -45,34 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4666</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4666"/>
         <updated>2023-01-26T07:06:03.787Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대선거구제, 지역주의 양당제 정치구도 해소할 대안이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4665</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4665"/>
-        <updated>2023-01-25T10:13:34.187Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4664</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4664"/>
-        <updated>2023-01-24T14:04:59.094Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차례상에 홍동백서(紅東白西), 역사적 근거 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4663</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4663"/>
-        <updated>2023-01-20T10:07:15.196Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택가격 상승이 출산율 하락에 미치는 영향이 크다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4661</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4661"/>
-        <updated>2023-01-19T07:05:00.662Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
