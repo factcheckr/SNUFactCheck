@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-08-01T12:13:38.009Z</updated>
+    <updated>2023-08-01T13:17:23.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몰래 한 녹음, 아동학대 사건에서 증거능력 인정 안 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5078</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5078"/>
+        <updated>2023-08-01T13:15:57.100Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 여름, 유독 한국에서 코로나 확산세가 심각하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5076</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5076"/>
+        <updated>2023-08-01T13:15:57.101Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부가 4대강 보 해체해 충남과 전라 물난리 났다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5074</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5056"/>
         <updated>2023-07-28T12:11:32.223Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구 평균기온 오르면 세계경제 성장률 내려간다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5055</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5055"/>
-        <updated>2023-07-27T04:08:16.782Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 저출산 예산은 매년 100조 이상 들어간다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5053</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5053"/>
-        <updated>2023-07-26T10:06:11.009Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
